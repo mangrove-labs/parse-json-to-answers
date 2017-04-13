@@ -1,0 +1,1204 @@
+"Jasmine", 18 - 24 / Black or African American / Female / College Student
+"Christophe",  /  /  / Project Manager
+"James", 25 - 34 / White/Caucasian / Male / Biologist
+"Serina", 35 - 44 / Black or African American / Female / TSA at MIA
+"Fletcher", 35 - 44 / Black or African American / Male / Student
+"Karina", 45 - 54 / Hispanic/Latino / Female / Adversiting
+"Subfwayuser", 65 or above / White/Caucasian / Female / Retired
+"GR", 35 - 44 / Hispanic/Latino / Male / Health cAre engineer 
+"Jessica", 18 - 24 / Black or African American / Female / College Student
+"Glyn", 18 - 24 / Black or African American / Female / City Year Team Core member
+"professional",  /  /  / Professional surveyor and mapper
+"Beth w", 55 - 64 / White/Caucasian / Female / Business process specialist 
+"Tito", 45 - 54 / Hispanic/Latino / Male / Coordinator at Mandarin Oriental
+"Kdh", 45 - 54 / Black or African American / Female / Regional planner 
+"Fabiola", 18 - 24 / Black or African American / Female / Student
+"techie", 25 - 34 / Hispanic/Latino / Male / Data clerk
+"Elmo", 18 - 24 / Hispanic/Latino / Male / Student
+"Luis", 25 - 34 / Hispanic/Latino / Male / Guest Services at Marlin Park
+"26yo part time worker and student", 25 - 34 / Hispanic/Latino / Female / Testing proctor at Miami Dade College and ticket seller at Miami Marlins
+
+Give yourself a Tester Profile:
+ - Jasmine: Jasmine
+ - Christophe: Christophe
+ - James: James
+ - Serina: Serina
+ - Fletcher: Fletcher
+ - Karina: Karina
+ - Subfwayuser: Subfwayuser
+ - GR: GR
+ - Jessica: Jessica
+ - Glyn: Glyn
+ - professional: professional
+ - Beth w: Beth w
+ - Tito: Tito
+ - Kdh: Kdh
+ - Fabiola: Fabiola
+ - techie: techie
+ - Elmo: Elmo
+ - Luis: Luis
+ - 26yo part time worker and student: 26yo part time worker and student
+
+Proctored by:
+ - Jasmine: Dan Duffy
+ - Christophe: Dan Duffy
+ - James: CCT
+ - Serina: Dan Duffy
+ - Fletcher: Bobbie Crichton
+ - Karina: CCT
+ - Subfwayuser: Dan Duffy
+ - GR: CCT
+ - Jessica: Dan Duffy
+ - Glyn: Bobbie Crichton
+ - professional: Susan Davies
+ - Beth w: CCT
+ - Tito: Dan Duffy
+ - Kdh: CCT
+ - Fabiola: Julio Rey
+ - techie: Susan Davies
+ - Elmo: Bobbie Crichton 
+ - Luis: Dan Duffy
+ - 26yo part time worker and student: Susan Davies
+
+What's your occupation? What do you do all day?
+ - Jasmine: College Student
+ - Christophe: Project Manager
+ - James: Biologist
+ - Serina: TSA at MIA
+ - Fletcher: Student
+ - Karina: Adversiting
+ - Subfwayuser: Retired
+ - GR: Health cAre engineer 
+ - Jessica: College Student
+ - Glyn: City Year Team Core member
+ - professional: Professional surveyor and mapper
+ - Beth w: Business process specialist 
+ - Tito: Coordinator at Mandarin Oriental
+ - Kdh: Regional planner 
+ - Fabiola: Student
+ - techie: Data clerk
+ - Elmo: Student
+ - Luis: Guest Services at Marlin Park
+ - 26yo part time worker and student: Testing proctor at Miami Dade College and ticket seller at Miami Marlins
+
+Platform Map
+ - Jasmine: Platform Map
+ - Christophe: 
+ - James: 
+ - Serina: 
+ - Fletcher: 
+ - Karina: 
+ - Subfwayuser: 
+ - GR: 
+ - Jessica: 
+ - Glyn: 
+ - professional: 
+ - Beth w: Platform Map
+ - Tito: Platform Map
+ - Kdh: Platform Map
+ - Fabiola: Platform Map
+ - techie: 
+ - Elmo: 
+ - Luis: Platform Map
+ - 26yo part time worker and student: 
+
+Overhead Map
+ - Jasmine: 
+ - Christophe: 
+ - James: 
+ - Serina: 
+ - Fletcher: 
+ - Karina: 
+ - Subfwayuser: 
+ - GR: 
+ - Jessica: 
+ - Glyn: 
+ - professional: 
+ - Beth w: 
+ - Tito: 
+ - Kdh: 
+ - Fabiola: 
+ - techie: 
+ - Elmo: 
+ - Luis: 
+ - 26yo part time worker and student: 
+
+In-Bus Map
+ - Jasmine: 
+ - Christophe: 
+ - James: 
+ - Serina: 
+ - Fletcher: 
+ - Karina: 
+ - Subfwayuser: 
+ - GR: 
+ - Jessica: 
+ - Glyn: 
+ - professional: 
+ - Beth w: 
+ - Tito: 
+ - Kdh: 
+ - Fabiola: 
+ - techie: 
+ - Elmo: 
+ - Luis: 
+ - 26yo part time worker and student: 
+
+Other
+ - Jasmine: 
+ - Christophe: 
+ - James: 
+ - Serina: 
+ - Fletcher: 
+ - Karina: 
+ - Subfwayuser: 
+ - GR: 
+ - Jessica: 
+ - Glyn: 
+ - professional: 
+ - Beth w: 
+ - Tito: 
+ - Kdh: 
+ - Fabiola: 
+ - techie: 
+ - Elmo: 
+ - Luis: 
+ - 26yo part time worker and student: 
+
+Have you ever been tested for color blindness?
+ - Jasmine: 0
+ - Christophe: 0
+ - James: 1
+ - Serina: 1
+ - Fletcher: 0
+ - Karina: 0
+ - Subfwayuser: 0
+ - GR: 0
+ - Jessica: 1
+ - Glyn: 1
+ - professional: 0
+ - Beth w: 1
+ - Tito: 0
+ - Kdh: 0
+ - Fabiola: 1
+ - techie: 1
+ - Elmo: 0
+ - Luis: 1
+ - 26yo part time worker and student: 1
+
+Would you be willing to take a quick online color blindness test? (It only takes about a minute)
+ - Jasmine: 1
+ - Christophe: 1
+ - James: 
+ - Serina: 
+ - Fletcher: 1
+ - Karina: 0
+ - Subfwayuser: 1
+ - GR: 1
+ - Jessica: 
+ - Glyn: 
+ - professional: 1
+ - Beth w: 
+ - Tito: 1
+ - Kdh: 1
+ - Fabiola: 
+ - techie: 
+ - Elmo: 1
+ - Luis: 
+ - 26yo part time worker and student: 
+
+What were the results of your color blindness test?
+ - Jasmine: Normal
+ - Christophe: Normal
+ - James: Normal
+ - Serina: Normal
+ - Fletcher: Tritan (difficulty seeing blues and yellows)
+ - Karina: 
+ - Subfwayuser: Normal
+ - GR: Normal
+ - Jessica: Normal
+ - Glyn: Normal
+ - professional: Normal
+ - Beth w: Normal
+ - Tito: Tritan (difficulty seeing blues and yellows)
+ - Kdh: Normal
+ - Fabiola: Normal
+ - techie: Normal
+ - Elmo: Normal
+ - Luis: Normal
+ - 26yo part time worker and student: Normal
+
+Can you think of a destination that you might use the Metromover to get to?
+ - Jasmine: 1
+ - Christophe: 1
+ - James: 1
+ - Serina: 1
+ - Fletcher: 1
+ - Karina: 1
+ - Subfwayuser: 1
+ - GR: 1
+ - Jessica: 1
+ - Glyn: 1
+ - professional: 1
+ - Beth w: 1
+ - Tito: 1
+ - Kdh: 1
+ - Fabiola: 1
+ - techie: 1
+ - Elmo: 1
+ - Luis: 1
+ - 26yo part time worker and student: 1
+
+Show me how you would use this map to plan a route to that location.- Where would you first get on public transit?- Where would you get on the Metromover?- Which Metromover station was the closest to your destination?     -- How did you know it was the closest?
+ - Jasmine: Starting from the Government Center, look for the Metromover that says Omni and take it to Bayfront Park and continue to the Omni stop. After pointing out that we are at the Eighth Street station, Jasmine said she would take the Metromover north and transfer at the Knight Center stop to the Metromover loop to Omni.
+ - Christophe: Coming from Omni Station, I would get on the Adrinne Arsht Center and usually change at College North to the Brickell Loop, and get off on Eighth Street Station. 
+ - James: Skipped
+ - Serina: I usually take the bus to the Omni Station to Downtown Miami at the Government Center
+ - Fletcher: Omni/Adrian A to College North
+ - Karina: Wolfson campus
+B bus to finanical mover station
+Brickell to college north
+ - Subfwayuser: Take my scooter or bike to Adrienne Arsht and take the Omni Loop to one of the stations to switch to the Brickell Loop and get off a the Financial District. 
+ - GR: Musuem park
+Walk to arsht
+Can on the omni loop
+ - Jessica: Going to the Government Center, it would take Brickell Loop eleven stations, or transfer to the Inner Loop at the Knight Center, or seven stops. 
+ - Glyn: Bayfront Park
+Brickell Loop 8th St. Go to Bayfront Park exite
+ - professional: Where is the starting point? (I said I dont know). We will take this building as a starting point (700 Brickell). I can go to Freedom Tower station or Park West station. I would take Omni loop. Final destination stop is Government Center. It's written on the map. (User AND proctor mistook incorrect 7th street on the map- correct starting point is Eighth Street stop on Brickell Loop). 
+ - Beth w: Arhst
+Eighth street
+Brickell loop to governement center and transfer to inner loop
+ - Tito: Perez Art Museum taking Brickell Loop to Knight Center, transferring to the Omni Loop. 
+ - Kdh: Eight street mover
+Brickell loop to bayfeont park
+
+ - Fabiola: Brickell. Simply take Metromover from Eigtht Street south on Brickell loop.  Used the legend.
+ - techie: Starting from current location- 700 Brickell. (Tester is looking at loop page). Start off at Eighth Street station and it goes counterclockwise to Govt Center. Closest to destination is Govt Center. On the list of Government Buildings it shows the Miami-Dade County courthouse is at Government Center. 
+ - Elmo: Bayfront park
+ - Luis: Luis worked for US1 Parking when it was the Omni. So, he would board the Brickell Loop north to the Knight Center and transfer to the Omni Loop. 
+ - 26yo part time worker and student: Miami Dade Wolfson Campus is destination, starting from 700 Brickell. Would get on Brickell Loop. The Eight Street Station on the Metromover Brickell loop. College/Bayside station is closest to destination. I could tell by the address of NE 4th Street on the map. 
+
+Proctors only: How easily did the user perform this task?
+ - Jasmine: User couldn't perform the task
+ - Christophe: 
+ - James: User performed the task quickly with no trouble
+ - Serina: 
+ - Fletcher: User performed the task quickly with no trouble
+ - Karina: User performed the task quickly with no trouble
+ - Subfwayuser: 
+ - GR: User performed the task quickly with no trouble
+ - Jessica: 
+ - Glyn: 
+ - professional: 
+ - Beth w: User performed the task quickly with no trouble
+ - Tito: 
+ - Kdh: User performed the task, but had struggles
+ - Fabiola: 
+ - techie: 
+ - Elmo: 
+ - Luis: 
+ - 26yo part time worker and student: 
+
+How could the map be improved to make this process easier?
+ - Jasmine: Jasmine said she listens to the announcements within the Metromover for information on the route, but would like to have the pamphlets with routes available within the Metromover cards. 
+ - Christophe: Christophe did not under the loops and directions when first got here. For instance, the three layer overlay similar to mall maps. 
+ - James: Skipped
+ - Serina: Make the print larger.
+ - Fletcher: Mover map/list at ground level - w/landmarks
+ - Karina: Besides colors 
+Different size loops
+Acurrate distance relations
+ - Subfwayuser: The Gold of the Metrorail is too similar to the Yellow of the Brickell Loop. Also, two Loops are blue, so make one Red and the other Blue, and make the Loop names the same as the colors since visitors do not know what the names refer to. ("Use the universal language of Metros") Also, maybe make South Bound and North Bound Routes. 
+ - GR: Focus on downtown only 
+Color code the brickell loop a different color
+ - Jessica: Maybe making the station dots more apparent, maybe red instead of white. 
+ - Glyn: It's ok
+ - professional: Yes. I would make the North arrow more prominent in a bold color at the top. Mistake of wrong starting point leads to a suggestion about making Brickell Ave more prominently marked on the map. The two 7th Street is easy to mix up. 
+ - Beth w: Which loop takes you the attraction 
+ - Tito: No suggested improvements
+ - Kdh: None
+ - Fabiola: Simplify the legend. Symbols for stations can get confusing. Show stations serving a single loop for all loops.
+ - techie: It could have icons or symbols, like a courthouse so you could easily see landmarks.
+ - Elmo: Easy
+ - Luis: The map is pretty well set up, particularly with the color coding and the information on the side bar. 
+ - 26yo part time worker and student: I saw that the map on the other side has the individual loops, but when you put together on the map, it gets confusing with the different colors, so it would be beneficial to have individual loop maps.
+
+Find the "Tenth Street Promenade" Metromover station.
+ - Jasmine: Jasmine immediately pointed to the "Tenth Street Promenade" Metromover Station on the Platform Map. 
+ - Christophe: Christophe when directly to the Tenth Street Promenade station on the Brickell Loop
+ - James: Skipped
+ - Serina: Serena quickly found the Tenth Street Promenade Station on the map, but has passed it in the past. 
+ - Fletcher: Review map and found it easily
+ - Karina: Yes
+ - Subfwayuser: Yes
+ - GR: Yes
+ - Jessica: Jessica found it quickly.
+ - Glyn: Found it easily
+ - professional: (User found station quickly). It is very prominent.
+ - Beth w: Had to review the whole map
+ - Tito: Tito found the "Tenth Street Promenade" station easily once it figured it was far from the Eleventh Street Station. 
+ - Kdh: Yes
+ - Fabiola: Yes
+ - techie: (Tester found it).
+ - Elmo: Yes
+ - Luis: Luiz was looking too far north, but then found it once he looked lower. 
+ - 26yo part time worker and student: (User finds)
+
+How did you know it was a Metromover station?
+ - Jasmine: Based upon the Bus Icon next to the Brickell station.
+ - Christophe: Christophe mentioned that it was on the Brickell Loop. 
+ - James: Skipped
+ - Serina: Serina has seen it before on the LED display on the Metromover car as well as the announcement. 
+ - Fletcher: By looking at map and name on brochure
+ - Karina: Only because i have ridden this route 
+ - Subfwayuser: Because it is on the Brickell Loop, that is Yellow versus Gold. 
+ - GR: I did not 
+I had to look for it
+ - Jessica: Because the Station name is in bold letters. 
+ - Glyn: Looked at legend 
+ - professional: It was on the map of the Metromover.
+ - Beth w: Because you are fimilar with it
+ - Tito: It has a little dot, though it is not very obvious since the Eighth Street station as a slightly different circle. 
+ - Kdh: Yellow line
+ - Fabiola: Indicated on the map
+ - techie: You can tell because there is a dot and it's in bold letters.
+ - Elmo: By icon
+ - Luis: Because of the color coding from the Legend, versus the green and orange of the Metrorail. 
+ - 26yo part time worker and student: It has the little route icon and the color of the Brickell Loop.
+
+Can you connect to a Metrobus here? (Yes or No)...How can you tell?
+ - Jasmine: Yes
+ - Christophe: Yes, the two listed on map
+ - James: Skipped
+ - Serina: Yes, because the pamphlet shows both Broward and Dade buses. 
+ - Fletcher: Yes. Says it on map.
+ - Karina: Yes
+ - Subfwayuser: Yes
+ - GR: Yes
+Logo and info box however the trolly has the same logo
+ - Jessica: Definitely because there is a bus icon, and even the bus numbers. 
+ - Glyn: Yes. Look at legend. Broward buses stop here
+ - professional: Yes. It's a small rectangle with a symbol of a bus.
+ - Beth w: Yes
+Icon and wording 
+ - Tito: You can not tell from the Platform Map.
+ - Kdh: Yes
+Icon and mia bus wording 
+ - Fabiola: Skipped
+ - techie: Yes. There is a bus symbol and it says MIA BIS, BCT 595e. I have no idea what that is but it seems like a bus. 
+ - Elmo: Yes.
+ - Luis: No, you need to continue to the Brickell Station where the Bus Icon is shown. 
+ - 26yo part time worker and student: Yes. The icon with the legend of icon (meaning little bus icon).
+
+What is the name of the line this station is on?
+ - Jasmine: The Omni Loop from the Legend
+ - Christophe: The user was already familiar with this station. 
+ - James: Omni loop
+ - Serina: Skipped
+ - Fletcher: Skip
+ - Karina: Skip
+ - Subfwayuser: Skipped
+ - GR: Skip
+ - Jessica: Skipped
+ - Glyn: Skip
+
+ - professional: 
+ - Beth w: Skip
+ - Tito: Skipped
+ - Kdh: Omni loop
+ - Fabiola: yes.
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+Find the "Government Center" Metrorail station.
+ - Jasmine: Jasmine immediately pointed to the Government Center station. 
+ - Christophe: Christophe found it quickly, already familiar with it from his travels. 
+ - James: Skipped
+ - Serina: Serina was able to quickly find the Government Center Metrorail station. 
+ - Fletcher: Brickell loop. Yes.
+ - Karina: Yes
+ - Subfwayuser: Diane found it quickly on the map. 
+ - GR: Yes
+ - Jessica: Yes
+ - Glyn: Yes.  
+ - professional: User found easily.
+ - Beth w: Yes
+ - Tito: Tito easily found the "Government Center" Metrorail Station.
+ - Kdh: Yes
+ - Fabiola: yes
+ - techie: User finds it.
+ - Elmo: Yes.
+ - Luis: Luis found it quickly, but he was already familiar with it. 
+ - 26yo part time worker and student: (User finds quickly)
+
+How did you know it was a Metrorail station?
+ - Jasmine: Jasmine regularly rides the Metro Rail. 
+ - Christophe: Christophe has taken the Metrorail from there. 
+ - James: Skipped
+ - Serina: Because of the Rail Icon, but Serina takes the train to airport every day. 
+ - Fletcher: Bigger circle 
+ - Karina: The name
+ - Subfwayuser: The Green and Gold on the Legend
+ - GR: I assumed 
+Big dot 
+ - Jessica: by the train icon which turned out to be bus icon. Rather the green and beige lines as indicated in the Legend.
+ - Glyn: Looked at legend, saw graphic showing metrorail line
+ - professional: It's a green and orange line (user matched it to the key).
+ - Beth w:  Circle
+And metrorail icon
+Past experience
+ - Tito: Because it says "Transfer to Metrorail"
+ - Kdh: Color coded
+
+ - Fabiola: Says "transfer to Metrorail" on the map
+ - techie: Has a bigger circle around it. Oh according to the map, Metrorail is green and yellow. 
+ - Elmo: All lines connect,Legend
+ - Luis: Based upon the green/orange line in the Legend. 
+ - 26yo part time worker and student: The color based on legend.
+
+Now, show me how you would take the Metromover from Tenth Street Promenade to Government Center. ... How many stations did you pass through (not including the origin or destination)?...Did you make any transfers? (Yes or no)    ...If Yes, How did you know you could transfer there?
+ - Jasmine: Jasmine initially through that the Brickell Loop would go left but that realized that the Metromove would go right and she would need to pass nine stops. 
+ - Christophe: Take the Brickell Loop to Knight Center Station, switch to the Inner Loop for two stops, more than the initial four. 
+ - James: Skipped
+ - Serina: Brickell Loop to Government Center, without making any transfers, or transfer at Third Street. 
+ - Fletcher: Go to Knight Center, switch there to inner loop.  Six stops.
+ - Karina: Take the brickell loop
+ - Subfwayuser: Get on at Tenth Street Station and transfer to the Inner Loop at Knight Center (even though the name on the map is far from the actual station)
+ - GR: Same loop color stops at grovenment center 
+Ride the whole loop around 
+ - Jessica: Take Brickell Loop and transfer the the Inner Loop at Knight Center
+ - Glyn: Take mover to Knight Center station. Transfers to inner loop to Government Center.  6 Stops
+ - professional: I pass through 9 stations. I do not make any transfers.
+ - Beth w: Brickell loop all the way round to governemnt center
+ - Tito: Take Brickell Loop north and transfer to the Inner Loop at Knight Center
+ - Kdh: Option 1 full brickell loop
+Option 2 bickell loop to knight center then catch inner loop
+ - Fabiola: Did not transfer, nine stations.
+ - techie: I think Brickell loop goes both ways, so you would pass through two stations. (User indicates going directly using brickell to the left branch up to Govt Center). Government Center serves all three loops so you should just be able to go up through three stops. (Indicates Fifth Street, Riverwalk, Third street)- and the fourth would be Government Center.]
+ - Elmo: 10th street to Knight Center to Governemnt Center 6 
+ - Luis: Brickell north until you get to the Government Center.
+ - 26yo part time worker and student: 8 stations going through on the Brickell Loop. No transfers. (User indicates going around to the right around the whole brickell loop). I just realized I could use a transfer and got there quicker. I saw the little round thing at Knight Center that serves multiple stations. And I could transfer to the Inner Loop, and then it would have been 5 stops.
+
+How could the map be improved to make these processes easier?
+ - Jasmine: No suggestions; just pay attention to the announcements. Jasmine has had to assist tourists with directions before, and agree that having the next station indicated on the Line Map inside the car. 
+ - Christophe: 
+ - James: Less busy
+ - Serina: Make the map bigger.
+ - Fletcher: See previous answer
+ - Karina: To much numbers 
+To small of numbers
+We should Know our demographics
+Use different colors
+
+ - Subfwayuser: Nothing else because the pamphlet has a lot of information which will work if you are planning your route ahead of time. 
+ - GR: Make a poster for when it hAppens at all stations
+ - Jessica: No other suggestion
+ - Glyn: Self explanatory arrows show direction
+ - professional: 
+ - Beth w: Skip
+ - Tito: Maybe add a fourth color on the main map to show the Full Loop. 
+ - Kdh: List all destinations by alphabetical order by color of loop
+ - Fabiola: Add the inner loop to the full loop
+ - techie: They need to have arrows that go both ways.
+ - Elmo: Continue to use Full Loop
+ - Luis: The Full Loop goes by almost every station and it is easy to follow. 
+ - 26yo part time worker and student: Definitely the color for the Metrorail, should not be yellow. Green with another color. 
+
+Find the "Omni Bus Terminal".
+ - Jasmine: At the Arsht Center, but she knew that already. 
+ - Christophe: Skipped this question. 
+ - James: Skipped
+ - Serina: Skipped
+ - Fletcher: Skip
+ - Karina: Skip
+ - Subfwayuser: Skipped
+ - GR: Skipper
+ - Jessica: Skipped
+ - Glyn: Able to easily find Omni Bus Terminal
+ - professional: 
+ - Beth w: Skip
+ - Tito: Skipped
+ - Kdh: Yes should be bigger 
+ - Fabiola: Yes
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+How did you know it was a bus terminal?
+ - Jasmine: She has used the bus terminal before and did point out the bus icon on the Platform Map. 
+ - Christophe: Redundant question
+ - James: Red symbol and the word terminal 
+ - Serina: Skipped
+ - Fletcher: Skip
+ - Karina: Skip
+ - Subfwayuser: skipped
+ - GR: Skip
+ - Jessica: Skipped
+ - Glyn: Looked at legend/key
+ - professional: 
+ - Beth w: Skip
+ - Tito: Skipped
+ - Kdh: See it on the map
+ - Fabiola: says it on the map
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+Which buses can you connect to here?
+ - Jasmine: Jasmine referred to the Main Metrobus Transfer points to list "3, 10, 16, 32, 93, 95 Express, 120 Beach Max, C, M, and S" 
+ - Christophe: Skipped this question. 
+ - James: 3
+16
+
+ - Serina: Skipped
+ - Fletcher: Skip
+ - Karina: N/A
+ - Subfwayuser: Skipped
+ - GR: Skip
+ - Jessica: Skipped
+ - Glyn: From Omni Bus terminal, connect with buses, 3, 16, 32, C,M, S 120
+ - professional: 
+ - Beth w: Skip
+ - Tito: Skipped
+ - Kdh: 3
+16
+32 
+ - Fabiola: Referred to list on map, named them. Not a Miami resident. 
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+Find the station closest to “Bayside Marketplace.” (Remember to use only information on the map.)
+ - Jasmine: Jasmine said either College/Bayside or Bayfront Park, which ever you happen to be closest to. 
+ - Christophe: Bayfront Park (Christophe did not look under Attractions and Landmarks). 
+ - James: College / bayside
+ - Serina: skipped
+ - Fletcher: Skip
+ - Karina: Skip
+ - Subfwayuser: Skipped
+ - GR: Skip
+ - Jessica: Skipped
+ - Glyn: Skip
+ - professional: 
+ - Beth w: Skip
+ - Tito: Skipped
+ - Kdh: College bayside
+ - Fabiola: Skipped
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+How would you know that this same station is the closest to New World School of the Arts?
+ - Jasmine: Jasmine found College/Bayside under Educational Centers, but only after being prompted to look further on the Platform Map. 
+ - Christophe: 
+ - James: Looked at educational center list
+ - Serina: skipped
+ - Fletcher: Skip
+ - Karina: Could not find
+Did not use the way finding 
+ - Subfwayuser: skipped
+ - GR: Skip
+ - Jessica: Skipped
+ - Glyn: Skip
+ - professional: 
+ - Beth w: Skip
+ - Tito: skipped
+ - Kdh: By looking at the in educational section 
+There is no way of knowing 
+ - Fabiola: Skipped
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+Now, show me how you would use the Metromover to go from Omni Bus Terminal to College/Bayside station.
+ - Jasmine: Jasmine would take Omni Loop and switch to the Brickell Loop at the Freedom Tower station. 
+ - Christophe: 
+ - James: Omni loop to college north 
+Transfer at college north to inner loop to college bayside
+ - Serina: Skipped
+ - Fletcher: Skip
+ - Karina: Skip
+ - Subfwayuser: Skipped
+ - GR: Skip
+ - Jessica: Skipped
+ - Glyn: Skip
+ - professional: 
+ - Beth w: Skip
+ - Tito: Skipped
+ - Kdh: Skip
+ - Fabiola: Skipped
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+How many stations did you pass through, not including the origin or destination?
+ - Jasmine: 5
+ - Christophe: 
+ - James: 6
+ - Serina: 0
+ - Fletcher: 
+ - Karina: 0
+ - Subfwayuser: 0
+ - GR: 0
+ - Jessica: 0
+ - Glyn: 
+ - professional: 
+ - Beth w: 0
+ - Tito: 0
+ - Kdh: 
+ - Fabiola: 0
+ - techie: 0
+ - Elmo: 
+ - Luis: 0
+ - 26yo part time worker and student: 0
+
+Did you make any transfers?
+ - Jasmine: 1
+ - Christophe: 
+ - James: 1
+ - Serina: 0
+ - Fletcher: 1
+ - Karina: 0
+ - Subfwayuser: 0
+ - GR: 0
+ - Jessica: 0
+ - Glyn: 0
+ - professional: 
+ - Beth w: 0
+ - Tito: 0
+ - Kdh: 1
+ - Fabiola: 0
+ - techie: 0
+ - Elmo: 0
+ - Luis: 0
+ - 26yo part time worker and student: 0
+
+How did you know you could transfer there?
+ - Jasmine: Jasmine would listen to the announcement on the car which lists the stations to transfer to. 
+ - Christophe: 
+ - James: All three connected by circle symbol
+ - Serina: 
+ - Fletcher: SKIP
+ - Karina: 
+ - Subfwayuser: 
+ - GR: 
+ - Jessica: 
+ - Glyn: 
+ - professional: 
+ - Beth w: 
+ - Tito: 
+ - Kdh: Skip
+ - Fabiola: 
+ - techie: 
+ - Elmo: 
+ - Luis: 
+ - 26yo part time worker and student: 
+
+Describe how you would get from the Brickell Loop to a station in the Omni Loop, for instance, your current location (Eighth Street Station) to the Adrienne Arsht Center.
+ - Jasmine: Get off at Riverwalk and pick up the Omni loop at the Knight Center, and wait until you heard Omni. 
+ - Christophe: 
+ - James: Skipped
+ - Serina: Skipped
+ - Fletcher: SKIP
+ - Karina: Skip
+ - Subfwayuser: Skipped
+ - GR: Skip
+ - Jessica: Skipped
+ - Glyn: Skip
+ - professional: 
+ - Beth w: Skip
+ - Tito: skipped
+ - Kdh: Skip
+ - Fabiola: Skipped
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+Find the southernmost Metromover station that connects to Broward County Transit.
+ - Jasmine: Jasmine would take the Metrorail rather than Broward County Transit. 
+ - Christophe: 
+ - James: Tenth street promenade 
+ - Serina: Tenth Street Promenade
+ - Fletcher: SKIP
+ - Karina: Brickell
+ - Subfwayuser: skipped
+ - GR: Skip
+ - Jessica: skipped
+ - Glyn: Skip
+ - professional: 
+ - Beth w: Brickell 
+ - Tito: Skipped
+ - Kdh: Brickell 
+ - Fabiola: Skipped
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+How did you know this station connects to Broward County Transit?
+ - Jasmine: Jasmine did not because the Platform Map does not explicitly list the stations connecting to Broward County Transit. 
+ - Christophe: 
+ - James: The symbol bct
+ - Serina: skipped
+ - Fletcher: SKIP
+ - Karina: Saw the list 
+ - Subfwayuser: Skipped
+ - GR: Skip
+ - Jessica: Skipped
+ - Glyn: Skip
+ - professional: 
+ - Beth w: Reference map
+ - Tito: Skipped
+ - Kdh: Saw the bct
+ - Fabiola: Skipped
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+How did you know it was the southernmost station that connects to Broward County Transit?
+ - Jasmine: Jasmine did not know but the Platform Map does not have that information. 
+ - Christophe: 
+ - James: See the symbol bct
+ - Serina: Skipped
+ - Fletcher: SKIP
+ - Karina: Its her common stop
+ - Subfwayuser: Skipped
+ - GR: Skip
+ - Jessica: skipped
+ - Glyn: Skip
+ - professional: 
+ - Beth w: Looked at map
+ - Tito: Skipped
+ - Kdh: Followed the line
+ - Fabiola: Skipped
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+What else can you connect to here?
+ - Jasmine: Jasmine said Bus or Metrorail. 
+ - Christophe: 
+ - James: 595
+Biscayne trolly
+ - Serina: Skipped
+ - Fletcher: SKIP
+ - Karina: Other bus links
+ - Subfwayuser: Skipped
+ - GR: Skip
+ - Jessica: Skipped
+ - Glyn: Skip
+ - professional: 
+ - Beth w: Mia trolly
+Mia causeway
+Mia buses
+ - Tito: Skipped
+ - Kdh: Mia buses
+ - Fabiola: Skipped
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+Find the station closest to the “Miami Federal Courthouse Complex.”
+ - Jasmine: Jasmine said Government Center
+ - Christophe: 
+ - James: Referenced the map college north
+ - Serina: Skipped
+ - Fletcher: GOVERNMENT CENTER
+ - Karina: College north
+ - Subfwayuser: Skipped
+ - GR: Went to the key
+College north
+ - Jessica: Skipped
+ - Glyn: Skip
+ - professional: 
+ - Beth w: College north 
+Used the map 
+ - Tito: Skipped
+ - Kdh: College north 
+ - Fabiola: Skipped
+ - techie: skip
+ - Elmo: Skip
+ - Luis: Skipped
+ - 26yo part time worker and student: skip
+
+Without transferring, show me how you would take the “Full Loop” from Brickell station to College North.... How many stations did you pass through (not including the origin or destination)?...Did you make any transfers? (Yes or no)    ...If Yes, How did you know you could transfer there?
+ - Jasmine: 7, without any transfers. Jasmine was familiar with the use of Full Loop when there are problems on the line. 
+ - Christophe: 
+ - James: When brickell and omni become one map
+ - Serina: I would transfer at Knight Center to the Inner Loop based upon the white dot and directional arrows. 
+ - Fletcher: Do you know what he Full Loop is - Yes.
+Didn't have any problems identifying how to use the Full Loop:
+Suggestions for names: Long Service; Extended Route 
+ - Karina: Yes the full loop is the whole loop
+ - Subfwayuser: 9
+ - GR: Does not know what the full loop is
+ - Jessica: 21 without any transfers, or 9 stops by transferring at Knight Center. 
+ - Glyn: Yes.
+ - professional: 
+ - Beth w: Skip
+ - Tito: Tito was aware of the Full Loop. Take the Full Loop to the School Board until it comes back, or take the Full Loop to the Knight Center and transfer to the Inner Loop. Tito did not attempt to go the wrong way on the Full Loop. 
+ - Kdh: 11
+Went the right way 
+ - Fabiola: Northbound to college bayside & walk to college north or take the full loop all the way to school board and come back. Saw the connection option with more recent map with inner loop inside full loop
+ - techie: 15 stations. (User follows black line all the way around to the top of School board, then counts College North as  15). No transfers- Just went around counterclockwise. 
+ - Elmo: Yes.  Transfer at Knight Center to inner loop to College North
+ - Luis: Luis would with take the Full Loop always to Omni and back to College North, or get off at College Station and walk over to College North.
+ - 26yo part time worker and student: Yes- its the whole thing. (Tester looks on map page- I show Tester the back with the Full Loop description-- "oh I forgot there was a back page"). Take the Brickell Loop up 5 stations to Knight center, transfer to the Omni Loop, and then take 3 stations to College North. (Indicates going clockwise around inner loop to College North). I knew I could transfer by the Knight Center Icon on the map that its a station serving multiple loops.
+
+Do you notice any differences?
+ - Jasmine: Jasmine noticed the streets are not displayed on the proposed design, but streets did not provide much help and makes the map more confusing. 
+ - Christophe: 
+ - James: Simpler with less importnat information
+ - Serina: The alternative is easier to read but lacks the bus information. 
+ - Fletcher: Yes.
+ - Karina: Cleaner 
+Less information
+ - Subfwayuser: The alternative is clearer but still need the colors normalized, and the stations need ellipses instead of circles to show that the station is valid for all lines. 
+ - GR: The new map is too simple
+Tne new mao would useful with added street numbers 
+There is context to referenece too
+ - Jessica: The Alternative Map is easier to read. 
+ - Glyn: Alternate map easier to read, except for arrows.  Add some of the elements from the original map, minimal streets/main streets, less background information
+ - professional: 
+ - Beth w: Less information 
+Diffferent curve of the train and mover
+ - Tito: The Alternative Map is clearer because it only has the information that is necessary. 
+ - Kdh: Cleaner 
+Distinction between mover and rail
+No mention of loop names on map
+ - Fabiola: Alternate map is clearer. Needs major streets indicated. Arrows look like a design on the alternate map, mover direction not clear.
+ - techie: Gaps between the metrorail and metromover. Arrows are not there. Station with connections symbol- station with white circle vs green which is downtown express station but idk what that means.  There's more contrast. You don't see the actual streets that are nearby. 
+ - Elmo: Original has more detail
+ - Luis: The Alternative Map has brighter colors and does not show the street names, which is important. 
+ - 26yo part time worker and student: Yes- I don't see the map on the new one. I don't see the availability of the Bus or other transit options. That's about it.
+
+Which design do you like better (and why)?
+ - Jasmine: Jasmine preferred the proposed design. 
+ - Christophe: 
+ - James: The current one
+ - Serina: Serena prefers the alternative because she already familiar with public transportation, through a visitor might want the additional information in the pamphlet. 
+ - Fletcher: Proposed design. Cleaner design; easier to read; incorporate major streets, not all.
+ - Karina: The names need to bigger
+ - Subfwayuser: Diane preferred the alternative design because it is simpler. 
+ - GR: A little bit of both 
+ - Jessica: The Alternative is better because it is simple and easy
+ - Glyn: See prevous answer
+ - professional: 
+ - Beth w: The new one 
+Easier on the eye
+ - Tito: Tito likes the Alternative Map better because it is does not have extraneous information such as the street names. 
+ - Kdh: The arrows on the old map are not clear
+The new map makes it more understandable 
+ - Fabiola: Original better. Likes to have the street names. 
+ - techie: It's similar, but its more of an overview on the new one. If I had to pick I'll pick the first one because there's more detail. People need to know the streets. You need to know NE or SE. Major intersections.
+ - Elmo: Original because it has more detail; streets/intersections
+ - Luis: Luiz prefers the Platform Map is he know how far from is destination each station is. 
+ - 26yo part time worker and student: The new one seems clearer and less cluttered, but it doesn't have the map, or the other information. I would say the first/original one is more user-friendly. 
+
+Is there anything you would take from this map and add to the previous map?
+ - Jasmine: Jasmine rely on Google Maps once you are off the Metrorail or Metromover, so the street information is extraneous. 
+ - Christophe: 
+ - James: Less busy but keep importnat info
+ - Serina: Nothing, because Serina uses the MDT app if she needs to connect to a bus. 
+ - Fletcher: See previous question
+ - Karina: Change the arrows
+ - Subfwayuser: Remove the bus information since buses are available at every station and the bus information alone is insufficient. 
+ - GR: The simpliness
+ - Jessica: Use the Alternative Map on the Pamphlet instead. 
+ - Glyn: Yes - see previous answer
+ - professional: 
+ - Beth w: No
+ - Tito: Maybe bus information, though it would complicate the Platform map. 
+ - Kdh: Add the bus and other information on a side bar
+Add bus tranfer information to announcements 
+ - Fabiola: Smaller circles on the lines, no multiple loop station indicators.
+ - techie: The landmark on metrorail (historic overtown). The stations with connections window. That's about it. 
+ - Elmo: Add original map detail to proposed map
+ - Luis: Luiz prefers the Platform Map because he likes the additional details. 
+ - 26yo part time worker and student: I like the way the routes are. You can tell the difference between the Metrorail and the Brickell Loop, it's thinner and you can tell the difference. 
+
+Thanks, that was very helpful. If you’ll excuse me for a minute, I’m just going to see if the Designers have any follow-up questions they’d like me to ask you.
+ - Jasmine: 
+ - Christophe: 
+ - James: N/a
+ - Serina: 
+ - Fletcher: Designers asked questions - recapped what was liked/changed
+ - Karina: List of the cover all the transit transfer
+Change the size the names
+More information need to be said when there is an issue
+ - Subfwayuser: 
+ - GR: Change the color coding of the loops 
+The 311 number next tto the help line 
+Add the backside for app information 
+Add more information about easy pay 
+Tourists the airport / grove / airport / beach
+And how do they all connect
+ - Jessica: Nothing to ask. 
+ - Glyn: N/A
+ - professional: 
+ - Beth w: 
+ - Tito: 
+ - Kdh: Light up board for tourists and locals 
+ - Fabiola: Nothing to ask.
+ - techie: Nothing to add.
+ - Elmo: NA
+ - Luis: Luis would like at least some of the street names. 
+ - 26yo part time worker and student: Nothing to add.
+
+Proctors only: List the three most serious usability problems you observed.
+ - Jasmine: 1. Lack of reliance on the map 
+ - Christophe: 
+ - James: Busy map
+Color coding
+Icons
+ - Serina: Serina did not have any usability issues. 
+ - Fletcher: Brochure cluttered
+Full loop 
+Better wayfinding
+ - Karina: Letter size
+Use more of the map to show the map
+Use different colors for attractions
+ - Subfwayuser: Directional arrows too small,  colors too similar, station names too long
+ - GR: Telephone listing
+App info in the back
+Coloring coding 
+ - Jessica: Direction arrows are too small, the station indicators are not obvious enough (red dots would stand out). 
+ - Glyn: Too much background info
+Colors between Orange line and Brickell Loop(printed brochure)
+Landmark info on map is distracting - remove.
+ - professional: 
+ - Beth w: Directions to attractions 
+For example arsht is the omni line 
+ - Tito: The schism of combining Omni and Brickell into the Full Loop. 
+ - Kdh: Color of map system
+Metrorail is to much on top of the metromover 
+List all the destinations 
+ - Fabiola: 1 - lack of clarity 2 - directional arrows not prominent enough 3 - full loop was completely new concept
+ - techie: Direction of the metromover. How transfer would work. Seeing the symbols and arrows.
+ - Elmo: Leave original as is.
+ - Luis: Luiz was experienced with the Metromover system, though does not ride it frequently. 
+ - 26yo part time worker and student: Noticing where transfer locations are. Colors-- the yellow of the Metrorail is confusing with the Brickell Loop yellow.
+
+What is your age?
+ - Jasmine: 18 - 24
+ - Christophe: 
+ - James: 25 - 34
+ - Serina: 35 - 44
+ - Fletcher: 35 - 44
+ - Karina: 45 - 54
+ - Subfwayuser: 65 or above
+ - GR: 35 - 44
+ - Jessica: 18 - 24
+ - Glyn: 18 - 24
+ - professional: 
+ - Beth w: 55 - 64
+ - Tito: 45 - 54
+ - Kdh: 45 - 54
+ - Fabiola: 18 - 24
+ - techie: 25 - 34
+ - Elmo: 18 - 24
+ - Luis: 25 - 34
+ - 26yo part time worker and student: 25 - 34
+
+How would you describe your race/ethnicity?
+ - Jasmine: Black or African American
+ - Christophe: 
+ - James: White/Caucasian
+ - Serina: Black or African American
+ - Fletcher: Black or African American
+ - Karina: Hispanic/Latino
+ - Subfwayuser: White/Caucasian
+ - GR: Hispanic/Latino
+ - Jessica: Black or African American
+ - Glyn: Black or African American
+ - professional: 
+ - Beth w: White/Caucasian
+ - Tito: Hispanic/Latino
+ - Kdh: Black or African American
+ - Fabiola: Black or African American
+ - techie: Hispanic/Latino
+ - Elmo: Hispanic/Latino
+ - Luis: Hispanic/Latino
+ - 26yo part time worker and student: Hispanic/Latino
+
+What is your gender?
+ - Jasmine: Female
+ - Christophe: 
+ - James: Male
+ - Serina: Female
+ - Fletcher: Male
+ - Karina: Female
+ - Subfwayuser: Female
+ - GR: Male
+ - Jessica: Female
+ - Glyn: Female
+ - professional: 
+ - Beth w: Female
+ - Tito: Male
+ - Kdh: Female
+ - Fabiola: Female
+ - techie: Male
+ - Elmo: Male
+ - Luis: Male
+ - 26yo part time worker and student: Female
+
+What do you think of the CUTGroup?
+ - Jasmine: I learned a lot of stuff and enjoy the interaction. 
+ - Christophe: 
+ - James: Fine
+ - Serina: The CUTGroup is very worthwhile as I have learned a lot. 
+ - Fletcher: Ok.
+ - Karina: It is needed 
+I am user and it is improtant to improve public transit 
+ - Subfwayuser: The sign up was really easy via Tweeter. 
+ - GR: First time 
+ - Jessica: It helps get direct feedback for companies from actual person. 
+ - Glyn: Fine
+ - professional: 
+ - Beth w: Informative 
+ - Tito: They are doing a great job improving the websites. 
+ - Kdh: I like the process 
+ - Fabiola: Likes how they test objects for people to see what's wrong with materials and fix them. Better way to make improvements.
+ - techie: A good way to interact with the community and find out their intake on transportation.
+ - Elmo: Helpful
+ - Luis: I really like the CUTGroup because you learn a lot of new stuff. 
+ - 26yo part time worker and student: It's helpful to gather information.
+
+Is this your first CUTGroup test?
+ - Jasmine: 1
+ - Christophe: 
+ - James: 0
+ - Serina: 0
+ - Fletcher: 1
+ - Karina: 1
+ - Subfwayuser: 1
+ - GR: 1
+ - Jessica: 0
+ - Glyn: 0
+ - professional: 
+ - Beth w: 0
+ - Tito: 0
+ - Kdh: 1
+ - Fabiola: 0
+ - techie: 0
+ - Elmo: 1
+ - Luis: 0
+ - 26yo part time worker and student: 0
+
+How do you feel about this CUTGroup test?
+ - Jasmine: It was easy. 
+ - Christophe: 
+ - James: It is good
+ - Serina: I liked this test as well. 
+ - Fletcher: Helpful.
+ - Karina: This information is needed
+ - Subfwayuser: The test was good, especially with an actual human instead of a machine. 
+ - GR: Wanted to help the community 
+ - Jessica: I like this building better because it is easier to get to from UM rather than the Coral Gables Library. 
+ - Glyn: Nice. Liked getting to know more anbout the Metromover system.   Mover system is convenient, free good to use to get around the area.
+ - professional: 
+ - Beth w: The map was helpful 
+ - Tito: This test was interesting and will improve the Metromover. 
+ - Kdh: I enjoyed the experience and felt as though I am contributing to the community 
+ - Fabiola: Liked it better than last one because uses transportation and not a Miami resident. glad to be asked about it.
+ - techie: Good. I wanted to give my opinion about transportation.
+ - Elmo: Easy was familiar with system 
+ - Luis: Luis said this test required a lot of thinking. 
+ - 26yo part time worker and student: Interesting.
+
+Anything else to add?
+ - Jasmine: Nothing to add
+ - Christophe: 
+ - James: N/a
+ - Serina: Nothing to add
+ - Fletcher: Maybe interview two at a time. They can stimulate each other.
+ - Karina: Skip
+ - Subfwayuser: Nothing else to add. 
+ - GR: Skip
+ - Jessica: Jessica had nothing else to add.
+ - Glyn: NA
+ - professional: 
+ - Beth w: Skip
+ - Tito: I use the Metromover almost every day, so improvements to the maps would be appreciated. 
+ - Kdh: None
+ - Fabiola: Nothing to add
+ - techie: No.
+ - Elmo: NA
+ - Luis: Nothing for this test. 
+ - 26yo part time worker and student: Maybe you could make a bilingual map, or bilingual session. Maybe test someone who only speaks another language- spanish or creole. 
+
+Start Date (UTC)
+ - Jasmine: 2017-04-04 18:28:49
+ - Christophe: 2017-04-04 19:36:32
+ - James: 2017-04-04 20:53:23
+ - Serina: 2017-04-04 20:29:06
+ - Fletcher: 2017-04-04 20:31:04
+ - Karina: 2017-04-04 21:11:06
+ - Subfwayuser: 2017-04-04 21:11:07
+ - GR: 2017-04-04 22:10:09
+ - Jessica: 2017-04-04 22:02:44
+ - Glyn: 2017-04-04 22:25:55
+ - professional: 2017-04-04 22:31:24
+ - Beth w: 2017-04-04 22:44:40
+ - Tito: 2017-04-04 22:56:32
+ - Kdh: 2017-04-04 23:08:37
+ - Fabiola: 2017-04-04 22:59:47
+ - techie: 2017-04-04 23:12:44
+ - Elmo: 2017-04-04 23:50:41
+ - Luis: 2017-04-04 23:32:02
+ - 26yo part time worker and student: 2017-04-04 23:59:20
+
+Submit Date (UTC)
+ - Jasmine: 2017-04-04 19:35:51
+ - Christophe: 2017-04-04 20:28:50
+ - James: 2017-04-04 21:09:31
+ - Serina: 2017-04-04 21:11:03
+ - Fletcher: 2017-04-04 21:18:07
+ - Karina: 2017-04-04 21:31:24
+ - Subfwayuser: 2017-04-04 21:57:02
+ - GR: 2017-04-04 22:34:22
+ - Jessica: 2017-04-04 22:52:40
+ - Glyn: 2017-04-04 22:55:40
+ - professional: 2017-04-04 23:01:48
+ - Beth w: 2017-04-04 23:07:39
+ - Tito: 2017-04-04 23:31:51
+ - Kdh: 2017-04-04 23:40:38
+ - Fabiola: 2017-04-04 23:43:41
+ - techie: 2017-04-04 23:57:09
+ - Elmo: 2017-04-05 00:09:09
+ - Luis: 2017-04-05 00:18:10
+ - 26yo part time worker and student: 2017-04-05 00:27:54
+
+Network ID
+ - Jasmine: 3fd613492c
+ - Christophe: 3fd613492c
+ - James: 8b7dee92bb
+ - Serina: 3fd613492c
+ - Fletcher: ee2302518c
+ - Karina: 8b7dee92bb
+ - Subfwayuser: 3fd613492c
+ - GR: 8b7dee92bb
+ - Jessica: 3fd613492c
+ - Glyn: ee2302518c
+ - professional: 8b7dee92bb
+ - Beth w: 8b7dee92bb
+ - Tito: 3fd613492c
+ - Kdh: 8b7dee92bb
+ - Fabiola: ee2302518c
+ - techie: 8b7dee92bb
+ - Elmo: ee2302518c
+ - Luis: 3fd613492c
+ - 26yo part time worker and student: 8b7dee92bb

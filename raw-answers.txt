@@ -1,0 +1,1003 @@
+"frequent user", 35 - 44 / Black or African American / Female / TSA Officer
+"Kathy", 25 - 34 / Hispanic/Latino / female / student, part-time Miami-Dade college testing proctor, and part-time ticket seller at Miami Marlins
+"MIAsince2000", 25 - 34 / Hispanic/Latino / Male / Works for Marlins park and a student
+"Alex1", 25 - 34 / Hispanic/Latino / Female / HR Manager
+"Masters degree and mom of 2", 45 - 54 / White/Caucasian / Female / Stay at home mom
+"Jonathan", 25 - 34 / Hispanic/Latino / Male / Human Resource
+"michelle", 18 - 24 / Black or African American / female / team leader at city year
+"Middle aged graphic designer",  /  /  / Graphic designer
+"Occasional user", 35 - 44 / Hispanic/Latino / Female / Extension agent for UF
+"Graphic designer middle aged", 35 - 44 / Hispanic/Latino / Male / Graphic designer
+"Arlene1", 25 - 34 / Hispanic/Latino / Female / Advertising
+"CanadianMom", 45 - 54 / White/Caucasian / female / At-home-mom
+"tito", 45 - 54 / Hispanic/Latino / male / mandarin oriental coordinator
+"Luckye", 45 - 54 /  / Female / Junior accounting investigator
+"Active user of MDC website", 55 - 64 / White/Caucasian / female / Business process specialist in water and sewer department; chart business processes, make improvement recommendations, trainer for customer care and billing website
+"Fab", 18 - 24 / Black or African American / Female / Student
+"lheaven", 35 - 44 / Black or African American / Female / Academic coordinator for a University
+"Reub", 25 - 34 / Asian/Pacific Islander / Male / Broadcast Producer at an Advertising Agency
+"Infrequent user", 25 - 34 / Hispanic/Latino / Female / Marketing
+"Steph", 25 - 34 /  / Female / Park planner
+"Ibis", 18 - 24 / Black or African American / Female / College Student
+"New User", 55 - 64 / Hispanic/Latino / Female / Guest services
+"Superman", 25 - 34 / Hispanic/Latino / M / Unemployed
+
+Give yourself a Tester Profile:
+ - frequent user: frequent user
+ - Kathy: Kathy
+ - MIAsince2000: MIAsince2000
+ - Alex1: Alex1
+ - Masters degree and mom of 2: Masters degree and mom of 2
+ - Jonathan: Jonathan
+ - michelle: michelle
+ - Middle aged graphic designer: Middle aged graphic designer
+ - Occasional user: Occasional user
+ - Graphic designer middle aged: Graphic designer middle aged
+ - Arlene1: Arlene1
+ - CanadianMom: CanadianMom
+ - tito: tito
+ - Luckye: Luckye
+ - Active user of MDC website: Active user of MDC website
+ - Fab: Fab
+ - lheaven: lheaven
+ - Reub: Reub
+ - Infrequent user: Infrequent user
+ - Steph: Steph
+ - Ibis: Ibis
+ - New User: New User
+ - Superman: Superman
+
+Proctored by:
+ - frequent user: Bryce
+ - Kathy: Lauren
+ - MIAsince2000: Danielle Ungermann
+ - Alex1: Tyler
+ - Masters degree and mom of 2: Connie Lee
+ - Jonathan: Pierre Cabral
+ - michelle: lauren
+ - Middle aged graphic designer: Connie Lee
+ - Occasional user: Bryce
+ - Graphic designer middle aged: Connie Lee
+ - Arlene1: Tyler
+ - CanadianMom: Danielle Ungermann
+ - tito: lauren
+ - Luckye: Danielle ungermann
+ - Active user of MDC website: Bryce
+ - Fab: Danielle Ungermann 
+ - lheaven: Ernie
+ - Reub: Dan Duffy
+ - Infrequent user: Bryce
+ - Steph: Ernie
+ - Ibis: Dan Duffy
+ - New User: Bryce
+ - Superman: Danielle ungermann 
+
+Which type of device are you using for this test?
+ - frequent user: Smartphone
+ - Kathy: Laptop
+ - MIAsince2000: Laptop
+ - Alex1: Smartphone
+ - Masters degree and mom of 2: Smartphone
+ - Jonathan: Laptop
+ - michelle: Smartphone
+ - Middle aged graphic designer: Smartphone
+ - Occasional user: Laptop
+ - Graphic designer middle aged: Smartphone
+ - Arlene1: Smartphone
+ - CanadianMom: Laptop
+ - tito: Smartphone
+ - Luckye: Laptop
+ - Active user of MDC website: Laptop
+ - Fab: Laptop
+ - lheaven: Laptop
+ - Reub: Laptop
+ - Infrequent user: Laptop
+ - Steph: Smartphone
+ - Ibis: Tablet
+ - New User: Laptop
+ - Superman: Laptop
+
+Which browser are you using right now?
+ - frequent user: Chrome
+ - Kathy: Chrome
+ - MIAsince2000: Chrome
+ - Alex1: Safari
+ - Masters degree and mom of 2: Chrome
+ - Jonathan: Safari
+ - michelle: Safari
+ - Middle aged graphic designer: Safari
+ - Occasional user: Internet Explorer
+ - Graphic designer middle aged: Safari
+ - Arlene1: Chrome
+ - CanadianMom: Safari
+ - tito: Chrome
+ - Luckye: Chrome
+ - Active user of MDC website: Safari
+ - Fab: Chrome
+ - lheaven: Internet Explorer
+ - Reub: Chrome
+ - Infrequent user: Safari
+ - Steph: Safari
+ - Ibis: Safari
+ - New User: Safari
+ - Superman: Chrome
+
+Other
+ - frequent user: 
+ - Kathy: 
+ - MIAsince2000: 
+ - Alex1: 
+ - Masters degree and mom of 2: 
+ - Jonathan: 
+ - michelle: 
+ - Middle aged graphic designer: 
+ - Occasional user: 
+ - Graphic designer middle aged: 
+ - Arlene1: 
+ - CanadianMom: 
+ - tito: 
+ - Luckye: Multi culture 
+ - Active user of MDC website: 
+ - Fab: 
+ - lheaven: 
+ - Reub: 
+ - Infrequent user: 
+ - Steph: 
+ - Ibis: 
+ - New User: 
+ - Superman: 
+
+What's your occupation? What do you do all day?
+ - frequent user: TSA Officer
+ - Kathy: student, part-time Miami-Dade college testing proctor, and part-time ticket seller at Miami Marlins
+ - MIAsince2000: Works for Marlins park and a student
+ - Alex1: HR Manager
+ - Masters degree and mom of 2: Stay at home mom
+ - Jonathan: Human Resource
+ - michelle: team leader at city year
+ - Middle aged graphic designer: Graphic designer
+ - Occasional user: Extension agent for UF
+ - Graphic designer middle aged: Graphic designer
+ - Arlene1: Advertising
+ - CanadianMom: At-home-mom
+ - tito: mandarin oriental coordinator
+ - Luckye: Junior accounting investigator
+ - Active user of MDC website: Business process specialist in water and sewer department; chart business processes, make improvement recommendations, trainer for customer care and billing website
+ - Fab: Student
+ - lheaven: Academic coordinator for a University
+ - Reub: Broadcast Producer at an Advertising Agency
+ - Infrequent user: Marketing
+ - Steph: Park planner
+ - Ibis: College Student
+ - New User: Guest services
+ - Superman: Unemployed
+
+Have you ever been tested for color blindness? And if so, may we record your results?
+ - frequent user: Yes
+ - Kathy: No
+ - MIAsince2000: No
+ - Alex1: No
+ - Masters degree and mom of 2: No
+ - Jonathan: No
+ - michelle: No
+ - Middle aged graphic designer: 
+ - Occasional user: Yes
+ - Graphic designer middle aged: Yes
+ - Arlene1: Yes
+ - CanadianMom: Yes
+ - tito: Yes
+ - Luckye: Yes
+ - Active user of MDC website: Yes
+ - Fab: No
+ - lheaven: Yes
+ - Reub: Yes
+ - Infrequent user: Yes
+ - Steph: Yes
+ - Ibis: Yes
+ - New User: Yes
+ - Superman: No
+
+Would you be willing to take a quick online color blindness test and if so, may we record the results of your test?
+ - frequent user: 
+ - Kathy: 1
+ - MIAsince2000: 1
+ - Alex1: 1
+ - Masters degree and mom of 2: 1
+ - Jonathan: 1
+ - michelle: 1
+ - Middle aged graphic designer: 
+ - Occasional user: 
+ - Graphic designer middle aged: 
+ - Arlene1: 
+ - CanadianMom: 
+ - tito: 
+ - Luckye: 
+ - Active user of MDC website: 
+ - Fab: 1
+ - lheaven: 
+ - Reub: 
+ - Infrequent user: 
+ - Steph: 
+ - Ibis: 
+ - New User: 
+ - Superman: 1
+
+Proctor: Go to http://enchroma.com/test in a new browser and walk the user through the test. The results of the user's colorblindness test is:
+ - frequent user: Normal
+ - Kathy: Normal
+ - MIAsince2000: Normal
+ - Alex1: Normal
+ - Masters degree and mom of 2: 
+ - Jonathan: Normal
+ - michelle: Normal
+ - Middle aged graphic designer: 
+ - Occasional user: Normal
+ - Graphic designer middle aged: Normal
+ - Arlene1: Normal
+ - CanadianMom: Normal
+ - tito: Normal
+ - Luckye: Normal
+ - Active user of MDC website: Tritan (difficulty seeing blues and yellows)
+ - Fab: Normal
+ - lheaven: Normal
+ - Reub: Normal
+ - Infrequent user: Normal
+ - Steph: Normal
+ - Ibis: Normal
+ - New User: Normal
+ - Superman: Normal
+
+Now, can you give me a ballpark estimate of how many hours you spend each week using the Internet (including browsing and email, both at work and at home)? 
+ - frequent user: 40
+ - Kathy: 56
+ - MIAsince2000: 5
+ - Alex1: 42
+ - Masters degree and mom of 2: 30
+ - Jonathan: 40
+ - michelle: 75
+ - Middle aged graphic designer: 
+ - Occasional user: 50
+ - Graphic designer middle aged: 50
+ - Arlene1: 58
+ - CanadianMom: 15
+ - tito: 60
+ - Luckye: 70
+ - Active user of MDC website: 30
+ - Fab: 70
+ - lheaven: 14
+ - Reub: 60
+ - Infrequent user: 98
+ - Steph: 50
+ - Ibis: 56
+ - New User: 10
+ - Superman: 70
+
+And roughly what percentage of your total Internet usage is spent browsing?
+ - frequent user: 45
+ - Kathy: 20
+ - MIAsince2000: 95
+ - Alex1: 15
+ - Masters degree and mom of 2: 60
+ - Jonathan: 30
+ - michelle: 25
+ - Middle aged graphic designer: 
+ - Occasional user: 75
+ - Graphic designer middle aged: 60
+ - Arlene1: 60
+ - CanadianMom: 45
+ - tito: 30
+ - Luckye: 30
+ - Active user of MDC website: 50
+ - Fab: 100
+ - lheaven: 70
+ - Reub: 80
+ - Infrequent user: 98
+ - Steph: 70
+ - Ibis: 40
+ - New User: 0
+ - Superman: 50
+
+Smartphone
+ - frequent user: Smartphone
+ - Kathy: Smartphone
+ - MIAsince2000: Smartphone
+ - Alex1: Smartphone
+ - Masters degree and mom of 2: Smartphone
+ - Jonathan: Smartphone
+ - michelle: Smartphone
+ - Middle aged graphic designer: 
+ - Occasional user: Smartphone
+ - Graphic designer middle aged: 
+ - Arlene1: Smartphone
+ - CanadianMom: Smartphone
+ - tito: 
+ - Luckye: 
+ - Active user of MDC website: Smartphone
+ - Fab: Smartphone
+ - lheaven: Smartphone
+ - Reub: Smartphone
+ - Infrequent user: Smartphone
+ - Steph: Smartphone
+ - Ibis: Smartphone
+ - New User: Smartphone
+ - Superman: Smartphone
+
+Tablet
+ - frequent user: Tablet
+ - Kathy: 
+ - MIAsince2000: 
+ - Alex1: 
+ - Masters degree and mom of 2: 
+ - Jonathan: 
+ - michelle: 
+ - Middle aged graphic designer: 
+ - Occasional user: 
+ - Graphic designer middle aged: 
+ - Arlene1: 
+ - CanadianMom: 
+ - tito: 
+ - Luckye: Tablet
+ - Active user of MDC website: 
+ - Fab: Tablet
+ - lheaven: Tablet
+ - Reub: 
+ - Infrequent user: 
+ - Steph: Tablet
+ - Ibis: 
+ - New User: 
+ - Superman: 
+
+Laptop
+ - frequent user: Laptop
+ - Kathy: Laptop
+ - MIAsince2000: 
+ - Alex1: Laptop
+ - Masters degree and mom of 2: 
+ - Jonathan: 
+ - michelle: Laptop
+ - Middle aged graphic designer: 
+ - Occasional user: Laptop
+ - Graphic designer middle aged: 
+ - Arlene1: Laptop
+ - CanadianMom: 
+ - tito: Laptop
+ - Luckye: 
+ - Active user of MDC website: Laptop
+ - Fab: Laptop
+ - lheaven: Laptop
+ - Reub: Laptop
+ - Infrequent user: Laptop
+ - Steph: 
+ - Ibis: Laptop
+ - New User: 
+ - Superman: Laptop
+
+Desktop
+ - frequent user: Desktop
+ - Kathy: Desktop
+ - MIAsince2000: 
+ - Alex1: Desktop
+ - Masters degree and mom of 2: Desktop
+ - Jonathan: 
+ - michelle: 
+ - Middle aged graphic designer: 
+ - Occasional user: Desktop
+ - Graphic designer middle aged: Desktop
+ - Arlene1: 
+ - CanadianMom: 
+ - tito: 
+ - Luckye: 
+ - Active user of MDC website: Desktop
+ - Fab: 
+ - lheaven: Desktop
+ - Reub: Desktop
+ - Infrequent user: Desktop
+ - Steph: Desktop
+ - Ibis: Desktop
+ - New User: 
+ - Superman: 
+
+Proctors: Does the user consent to having their photo taken, and has signed the consent form?
+ - frequent user: 
+ - Kathy: 
+ - MIAsince2000: 1
+ - Alex1: 
+ - Masters degree and mom of 2: 
+ - Jonathan: 1
+ - michelle: 1
+ - Middle aged graphic designer: 
+ - Occasional user: 1
+ - Graphic designer middle aged: 1
+ - Arlene1: 1
+ - CanadianMom: 
+ - tito: 1
+ - Luckye: 1
+ - Active user of MDC website: 1
+ - Fab: 1
+ - lheaven: 1
+ - Reub: 1
+ - Infrequent user: 1
+ - Steph: 1
+ - Ibis: 1
+ - New User: 1
+ - Superman: 1
+
+What's the first thing you noticed?
+ - frequent user: It's changed from current/other version. More pictures, think this is easier to use than the previous website. Typesetting is much better (larger). Like how it's broken down into subheadings with pictures, instead of one section
+ - Kathy: landing picture, it's really nice
+ - MIAsince2000: Very simple, easy to use. Basic topics. Isn't overloaded.  Pretty picture in banner
+ - Alex1: Directory, with the topics of interest
+ - Masters degree and mom of 2: The big banner asking for feedback, like the bright blue dots at the bottom which would help redirect to what she's looking for, don't like the news because it gets in the way, prefer to click on the news button to choose to read more, likes the phantom arrow in bottom right to go back to the start, doesnt need a twitter feed (seems useless)
+ - Jonathan: Its a lot more stream lined. 
+ - michelle: photo of the skyline 
+ - Middle aged graphic designer: 
+ - Occasional user: The landscape/skyline photo at the top
+ - Graphic designer middle aged: It's a happy look, welcoming, the image depicts a nice image of Miami, looks like your typical govt website except more polished which is good
+ - Arlene1: Lots of scrolling. Difficult with the tweets widget since its scrolling. Broken out pretty well and looks like it is putting the most clicked items at the top.
+ - CanadianMom: It's a user friendly display. I know to log in and out. The footer quicklinks are very help. Clear it's a Miami-related page. Shows me the most wanted searches. Looks easy enough to use.
+ - tito: like the landing photo- talking about miami. then it in a small amount of space they say what the website does
+ - Luckye: The news and local events going on. I've used this site before for jobs. County services, shows points of interest.
+ - Active user of MDC website: Pretty skyline photo of downtown
+ - Fab: Noticed the site URL logo plus the miami dade county logo. Topics of interest, animals, pets
+ - lheaven: It's clean. It's not busy, and that's what I like about it. Oh! I like these [circles with images] and you don't have to search in a dropdown box or it's in a left hand margin; it's right in front of you.
+ - Reub: This is a web site for Miami-Dade County, with a ton of website right on top. 
+ - Infrequent user: Downtown photo is really pretty! Very clean, white background and nice images. Like the social media integration. Like to find the county government right at the bottom of the site.  Like that 
+ - Steph: "I notice that miamidade now has social media. Calls to my demographic. There's no phone on there too, lol.
+
+Scrolls down up and down, "hmm."
+
+Web page looks really "open." As in so far, I don't see search. How would I search just for random searching? 
+
+I notice the topics of interest are narrowed down. I like that. 
+
+Hmm. I notice news & events are separate from social media posts and go into tweets, with the cutest dog. <3 
+
+There are a LOT of things to click on; I don't know if I want it to be less, there are just a lot of things for a particular purpose. I like the feedback on the top page. 
+
+The one thing I wish: I like the photo but I wish it had a different photos of Miami-Dade. I used to live in West Kendall. This isn't the Miami-Dade that I know! I wish they rotated stuff. It says "building a best county," and I don't feel concluded.
+ - Ibis: On Line Services, because of the photos and labelled buttons under them. 
+ - New User: All the information on the tabs is replicated farther down the site.
+ - Superman: See the different selections of what's offered... I notice they have online service and topics. A separate section for general interests. I like the war it's setup, very organized. It's very personal
+
+What do you think you can do on this site?
+ - frequent user: Everything! Look for bus schedule, request permits for building construction, purchase transit tickets on phone, pay taxes, trash pickup.
+ - Kathy: access links under icons i've previously had a hard time getting access to like county jobs and vehicle registration.
+ - MIAsince2000: Know about news events, theatrical events, marathons, payment portal- could pay water or light, house taxes. Covers info for business related applications. Notices request for services-- animal services, dumping, FPL . This landing page seems very easy to use- cut out the propaganda, easy to maneuver. "Cool, transit service updates"
+ - Alex1: Look up information on different types of interest of Miami Dade
+ - Masters degree and mom of 2: access government information, stuff that the city is in charge of, anything that the govt or country services has to offer
+ - Jonathan: Looks like a site where county business could be done online. 
+ - michelle: maybe pay utilities, get transit tickets or a news article about how to purchase it, arrow to get to the top of the page- ease of navigation 
+ - Middle aged graphic designer: 
+ - Occasional user: Look for anything related to the county, some permits, some licenses, paying, county phone numbers.
+ - Graphic designer middle aged: anything that has to do w the city, govt wise, making payments
+ - Arlene1: You can make a payment and find different government services.
+ - CanadianMom: Answer a lot of my questions, make MD- payments, register my car, animal services. I don't care so much about Twitter. Nice to see news and events. They should be together. My priority would be for the stuff at the top there under "Top Online Services"
+ - tito: there's a lot of scrolling that needs to be done. "services that miami-dade provides. This is place I should go. It's a lot of services"
+ - Luckye: To check out info on county jobs, public records, renewal for vehicle registration
+ - Active user of MDC website: A lot of things, looking for county jobs, property searches, public record searches, register vehicles, look up animal services, read about legislation
+ - Fab: To help you with miami dade county specific search related tasks
+ - lheaven: I'm hoping I can access everything MDC has to offer.
+ - Reub: Transit passes, look for jobs, search for any public records, register your vehicle; plus a lot more! 
+ - Infrequent user: Look for new pets, contacting government officials.
+ - Steph: "Perform tasks: contact someone with an issue. Maybe some way to pay my library fine! 
+ - Ibis: Helps you get around in Miami 
+ - New User: Property search, public records, look for county jobs, other services
+ - Superman: County jobs
+
+Is there anything you need that this site might be able to help you with?
+ - frequent user: 1
+ - Kathy: 1
+ - MIAsince2000: 1
+ - Alex1: 1
+ - Masters degree and mom of 2: 1
+ - Jonathan: 1
+ - michelle: 
+ - Middle aged graphic designer: 
+ - Occasional user: 1
+ - Graphic designer middle aged: 0
+ - Arlene1: 1
+ - CanadianMom: 1
+ - tito: 
+ - Luckye: 1
+ - Active user of MDC website: 1
+ - Fab: 1
+ - lheaven: 1
+ - Reub: 1
+ - Infrequent user: 1
+ - Steph: 1
+ - Ibis: 1
+ - New User: 1
+ - Superman: 0
+
+Show me how you would do that. Remember to think out loud.
+ - frequent user: Looking for a bus schedule. Looking at "Topics of Interest," hit "transportation and travel," (it's not particularly fast on this phone), tapped "Bus" heading, going to reload bus card, in "Transit Store" section of main website (out of scope for this test). It does seem simple and fast.
+ - Kathy: n/a no task beforethis
+ - MIAsince2000: Hit search bar, and type animal service. Provides many site options. Info about pet services. List is well laid out, my search is in bold. Nicely color coordinated. I like the associated dates for what's most recent and relevant 
+ - Alex1: Used the topics of interest tab to search the topics. Used Building and construction and Government and legislation tab to try and find library.
+ - Masters degree and mom of 2: Find a service in diff parks in the area; looking at blue dots with icons of a park, clicks on recreation and culture, be sure to click the words and not blue icon, scrolling the results, see what's on page 2, would each what each of the results mean, click on menu button to see where to go, does she need to log in? does that offer more access to info? what is log in for? click on All Services, freaked out by all the pages of info (16 pages!), but it is ALL services not just for parks. now type "parks features" and nothing comes up in search results, go back and search "parks" and doesnt find what she needs, now looking "park locations" and no matching results
+ - Jonathan: He could purchase a transit pass, he could also register his vehicle. And search for any county documents. 
+ - michelle: 
+ - Middle aged graphic designer: 
+ - Occasional user: Looking for parks & recreation site, going to search bar, "parks recreation" search term, going to current site, first link, calendar of events, be nicer if there was a map on the calendar of events, or "Events near your Neighborhood."  Hard to figure out where events are.
+ - Graphic designer middle aged: 
+ - Arlene1: selected online services, selected Property search (make icon clickable), selected schedule an appointment and it opened up into the desktop version. Selected property search and it opened on a more mobile friendly version. When scrolling past map its grabbing the map and moving instead of scrolling down the page. Searched for parents property and the map seemed to not load. (Opened onto Miami Dade full site).
+ - CanadianMom: Animals and pets. Reporting a stray cat. I would click "lost & found". If you find a pet > found link to pet adoption and protection center. Not sure of what's up with the blue line under "Phone Numbers" "Locations & Hours". Looks like a scroll bar. There's only a link to the Humane Society in Doral. We definitely want to spay the cat. I now see a link to 311, I would call them. 
+ - tito: 
+ - Luckye: Renew vehicle registration.
+Can only see how to register - renewal should be more prominent. Able to complete. In the past, the payment portal would freeze 
+ - Active user of MDC website: Clicking on "Transit Pass" text, looked immediately at blue buttons on right, found "County Employee Discount," got to flow for that, beta site's teal "Enroll or Make Changes" button went to an error screen on the classic site.
+ - Fab: Animal shelter search. Clicked animals and pets, click adopt a pet. In the darkened box section, click become a rescue partner. Very slow to load. Selected eligibility and requirements. I need to see the specific location, it's not obvious. Under locations and hours it should be clickable to lead to their site
+ - lheaven: Like public works and utility services. So I would go to the search and look for what I'm trying to go to find. Types in "library" presses enter and goes to the search, and there it is, the first one.
+ - Reub: Click on Property Search, and then clicked on the Property Search button. 
+ - Infrequent user: Looking up county commissioner by address. Tried ZIP code, didn't work, trying address instead, worked. (this may be out of scope) Signing up for newsletter, but that led to the registration flow, which was wrong-ish.
+ - Steph: Pay a library fine. I'd skip the first part (Topics of interest) - oh it's a jump link. I look for libraries but I don't find it, so I would look down to Recreation & Culture. "If it's under Rec & Culture I don't see it as quickly as I want to."
+
+Wait I can search - types in Library and clicks on the magnifying glass but the page does not load from the front page on mobile.
+
+She missed the hamburger menu. Proctor told to use search there and brings to old version. 
+ - Ibis: Click on Transit Pass and follow the instructions. 
+ - New User: Searching for property information from the first icon on top, clicking "property search help" in the left column, got old site's property search help. No property tax information. Using search box, leaving beta site, found tax collector.
+ - Superman: 
+
+Proctors only: How easily did the user perform this task?
+ - frequent user: User performed the task, but had some struggles
+ - Kathy: User couldn’t perform the task
+ - MIAsince2000: User performed the task, but had some struggles
+ - Alex1: User performed the task, but had some struggles
+ - Masters degree and mom of 2: User couldn’t perform the task
+ - Jonathan: User performed the task quickly and with no trouble
+ - michelle: User couldn’t perform the task
+ - Middle aged graphic designer: 
+ - Occasional user: User couldn’t perform the task
+ - Graphic designer middle aged: User performed the task, but had some struggles
+ - Arlene1: User couldn’t perform the task
+ - CanadianMom: 
+ - tito: User performed the task quickly and with no trouble
+ - Luckye: 
+ - Active user of MDC website: User performed the task, but had some struggles
+ - Fab: User performed the task quickly and with no trouble
+ - lheaven: User performed the task, but had some struggles
+ - Reub: User couldn’t perform the task
+ - Infrequent user: User performed the task, but had some struggles
+ - Steph: User couldn’t perform the task
+ - Ibis: User performed the task, but had some struggles
+ - New User: User performed the task, but had some struggles
+ - Superman: User performed the task quickly and with no trouble
+
+How could the site be improved to make it easier to perform this task?
+ - frequent user: should have a bullet or icon for itself, since it's deep in a "homeowner" flavored section of the site.
+ - Kathy: explain what the different sections of recycling are. people might not know distinction before clicking on page and wouldn't know to click on the page. would have assumed multi-family was a duplex not renting. 
+ - MIAsince2000: Add a link to report a building 
+ - Alex1: Remove the about us section and include a contact us section. If there was a general report issues contact number and live chat to send that info to the county and they could report the issue. The report a problem link is difficult to see with the white text over the image. Could instead put on the side column quick links or have a solid color behind them.
+ - Masters degree and mom of 2: needs to have recycling info under one of the blue icons, or something has to come up in search results when searching "recycling services"
+ - Jonathan: Task was easy. 
+ - michelle: unable to find information about submitting a complaint. Able to find recycling information, but not reporting a problem. have it under recycling services make a "report misconduct of non-compliance or something"
+ - Middle aged graphic designer: 
+ - Occasional user: Keywords would be good, no actual way to report it. How does a renter (frequent mover) know who to call or who is responsible?
+ - Graphic designer middle aged: a form to submit the info, "report an issue"... what is "lookup your"??
+ - Arlene1: Include a specific button to report any noncompliance properties. Was able to find the Recycling page quickly though.
+ - CanadianMom: There should be a specific option stating for you to verify that you're building meets all requirements, then add a box or big blue button to report issue.
+ - tito: this was easy because he did it the previous task. the learning curve for the site is quick. 
+ - Luckye: 
+ - Active user of MDC website: If it's a code enforcement thing, have an online option for report violations of the recycling laws.
+ - Fab: Nice for them to specifically list 3-1-1 service center
+ - lheaven: It would be nice if everything was available via two or three clicks. People get upset if you have to find it five or six times and then go to the search bar. I don't know if the site is monitored and someone should pick up and ask if there's anyone can help.
+ - Reub: Was Rueb supposed to file a Consumer Compliant? 
+ - Infrequent user: Button to report building not complying with multifamily recycling requirements.
+ - Steph: I'd consider "multifamily" and "residential" under one. And then have a separate division then. As far as call to actions, I thought there would be something under multi-fam recycling laws -> i hoped there'd be a call to action under regulations and compliance or under "Online options" .
+ - Ibis: Ibis did not locate how to report a tree trimming complaint online. 
+ - New User: Search.
+ - Superman: Too many tabs to scroll through, condense 
+
+Show me how you would use this site to pay for a building permit, remembering to think out loud.
+ - frequent user: Go to "Building & Construction," tapping on icon for it doesn't work, need to tap on the text under it. Scrolling through list, "Building Permits" tapped, gives lots of explanations for everything, button for online permit application, "basically self-explanatory." You can apparently print one as well. "Online Permit Application" seems like the right place, among the lots of different options.
+ - Kathy:  homepage < building permits > online permits applications > opened impact fees> read desctiption> clicked on hyperlink in impact fees > "can see the process"
+ - MIAsince2000: Start with make payments button > building permits> easy search. Having a hard time figuring out how to actually pay for a permit. Pick something specific under the fees section? Is a little stumped on the actual how
+ - Alex1: Used topic of interest to go to Building and Permings, selected Permits and found the pay for permits page
+ - Masters degree and mom of 2: scroll down to the blue icons, click on building and construction, click on building permits since it says you can pay permit fees, there are a lot of results so she clicks on building permits to expand the text for more info, click on "permit selection menu" , text is VERY tiny and has to squint to read, select "permit fees" halfway down, and doesn't know her process number so can't proceed
+ - Jonathan: go to online services, scroll down to topics of interest. then click on building and construction. then click on building permits. Then go to the permit fees section. Tester feels the link should be in the center of the page not on the side. 
+ - michelle: homepage > scrolling down> home and property (have to click on actual words and not icon) > reading options and not first time homebuyer > search for remodeling> no results > page two of home and property options> page three > "see its alphabetical order might be looking for the wrong thing" > search for "permits" > building permits> "kinda confusing" > opnened pay for a building permit and opnened building permit accordian > opened permit fees > "only licensed contractors can obtain a building permit" 
+ - Middle aged graphic designer: 
+ - Occasional user: Immediately goes to search for "home building permit", (hard to open tabs on the surface laptop), on old site permit area. GUIDED TO NEW SITE. Site doesn't go into who should or shouldn't pay county for permits, nothing illustrates where is unincorporated MDC. Typing in address for knowing municipality would be useful. Never expanded information blocks on left, feels general number isn't useful, spend all day on hold being transferred.
+ - Graphic designer middle aged: doesnt wnat to read much, will look at photos, click on "make payments" but not hopeful it is what he needs, but sees "building permits" (surprised it popped up so fast), click on it, sees the blue topics on the right, expand "permit fees" and read the info, click on "building fee schedule"
+ - Arlene1: Selected Online payments, make payments, building permits (icon was not clickable). Was able to find the fee schedule for the building permits. Nothing explicitly said pay building permit.
+ - CanadianMom: Starts by scrolling through the page. Click "Building & Construction" or use the search bar "pay my building permit". After first task "Building Permits" "Pay for Permit". I don't see the right link. Not clear on what permit portion is being paid for. Impact fee and permit extensions are not what I'm looking for. I don't know where to click. Now I will use the search bar
+ - tito: homepage > online services > make payments > building permits"so far so good"> online permit application > then pinch in to view screen because it's very small but it's inputting credit card and process number.... "I guess I already have an application on file" 
+ - Luckye: Clicked view more services. Page is loading very slowly. Now looking for search bar. Difficult to find
+ - Active user of MDC website: Looking for something about "building permits," found "Building & Construction" in blue icon zone, clicked text, found "Building Permits" link immediately, did find explanations on left, hoped "Permit Fees" heading had useful information (it didn't), the "Online Permit Application" button did get clicked, but it didn't match the same pattern as "Pay Impact Fee" or "Pay Re-Inspection Fee" buttons.
+ - Fab: 
+ - lheaven: I'd first start by browsing the first page - see's "Building and Construction" - starts scrolling - "Building Permits" and clicks on that. See's plus. "Is that a dropdown box? Okay, it is a drop down box." See's permit fees. Maybe there's an easier way over here on the right [column.] "Fees? Am I looking for an application? Impact fees?" There are a lot of fees, but doesn't know where to pay.
+ - Reub: Search on Building Permit on All Services page, which brought up "Pay for a building permit", but did not have an option to pay for permit. Surprisingly, the On-line Permit Application button did take him to a Online Permit Application - Pay Fees Due screen. 
+ - Infrequent user: Going to "topics of interest," looking for "home & property", missed page controls at bottom, feels a bit disorganized. Missed page links. Couldn't find anything about permits in home & property. "I think Pay Your Taxes should be at the top." Maybe "Tangible Personal Property?" Filtering for building and construction when in home & property is weird. Hinted at building and construction, found the "Pay for a building permit" screen, did find "Online Permit Application" button.
+ - Steph: I would go to make payments. Opens up the accordion menu. Okay, there it is. Clicks on "Building Permits." I thought it would alphatize but that's how my mind works. Okay, super easy. Starts reading.  "Wait, it's permit fees, right? It's remodeling, right?" You know, I don't know if there's buttons that say pay; it doesn't seem to pay what I'm looking for. I wish there was stuff as payments for residents, because impact fees aren't what I'm looking for. At least there's a number I can call.
+ - Ibis: Select Make Payments -> View more Services -> Building Permits
+ - New User: Scrolled to Topics of Interest, clicked Building & Construction, clicked "Building Permits", expanded "Permit Fees" subhead,  didn't look interesting, HINTED A BUTTONS ON RIGHT, picked "Pay Impact Fees".
+ - Superman: Online services> make payments> building permits... payment depends on the number of buildings 
+Selects online permit application
+
+
+Show me how you would use this site to submit that request to the appropriate authorities.
+ - frequent user: Navigated to home screen through hamburger menu, scrolled through blue icons for "Home & Property," found "Bulky Waste Pickup" in first list, goes to page with information on how it works, link to request waste pickup, useful related service links.
+ - Kathy: homepage > request services > bulk waste pickup> read instructions > would click on hyperlink to schedule.
+
+Depending on what it is, she would probably prefer to call. for this,she would like calling over emailing
+ - MIAsince2000: Either go through search bar or easy tab. County jobs, request services > bulky waste pickup. Nice view of options and requirements. Highlights the form and request section. The online options 'request bulk pickup' button nice and prominent. Would like to land directly there. Simplify by having it available online.
+ - Alex1: used the topics of interest and selected Environment, but could not find bulk waste there. Then selected recreation and culture and did not find. Then used search feature and found first result which was requesting bulky waste pick up.
+ - Masters degree and mom of 2: scroll down to blue icons, would call 311 to ask and tell them they want to schedule a pickup online and see what they say; click on "home and property", click on "bulky waste pickup", would read through info, click "request bulky waste pickup" and download the form on her computer but not phone
+ - Jonathan: Request services, click on bulky waste pick up then click on request bulky waste pick up then enter address. 
+ - michelle: homepage > view more services > scroll down to additional services > searched garbage> clicked on waste collection > schedule a bulky waste pick up > can input address . completed task
+ - Middle aged graphic designer: 
+ - Occasional user: Aside from calling 311, heh. Search for "home tree removal", went to old site page on "tree removal or relocation permits," knee deep in tree permit application pdf, site needs to explain terms
+ - Graphic designer middle aged: doenst know who does it but will click on "request services", doesnt see anythign specific about debris so clicked on "view more services", there's 16 pages... ugh.... finds the search bar and searches "tree debris", no results, search "debris" no results, give up
+ - Arlene1: Online services, Request services, bulky waste pick-up and selected the request pickup feature and was able to get to putting into address for the pick-up.
+ - CanadianMom: Pretty straightforward. Online Services > Bulky Waste pickup. Clicked through to figure out that she needed to fill out a form - not sure of who to submit to. Clicks 'request bulky waste pickup'. Enters address. Not sure whether to contact Coral Gables before the county. It's taking a while for the search to the load. "At this point I would stop my search and move on"
+ - tito: homepage > online services > reading topics of interest deciding between environment or home property. click on environment icon multiple times. had to click on text > more like taking care of the environment > back to topics of interest > home and property icon > all services to second page of options > bulky waste pick up "is landscaping considered bulky waste? Unsure even if after reading instructions. Suggestions in instructions. Reading items not allowed. It doesn't say its not allowed. Not sure" > back to all services  looking for "landscape" and want to choose "L" in an alphabetical list> search for "tree debris removal" > no matching results > search for "landscape debris  removal" > no result. done. would maybeeee burn it. 
+ - Luckye: Searches "debris removal". Comes across vendors for emergency removal but doesn't provide clear instructions on how to go about it. Then found by going back to search page. Concerned with whether the page would load in internet explorer- her preferred browser.
+ - Active user of MDC website: Thinking "sanitation" or something, "garbage removal" or "bulk waste." Tentatively trying "Home & Property" since nothing sanitation-related jumped out. Using category search for "bulk waste disposal," no results, but found "Waste Disposal" in cookie-based history/breadcrumb area. Found Commercial waste disposal options, "Residential" text not big and obvious enough. Residential disposal section in grey box doesn't have an option for pickup. GUIDED TO BULKY WASTE PICKUP SCREEN. Blue "Request bulky waste pickup" button immediately found.
+ - Fab: Under online services clicked request services> bulky services pickup. Goes to excess yardage section. Clear that she can cut them or leave for pickup or put in a bag and bring to recycling or contact a private hauler. Not sure of how to do that but doesn't think it's necessary 
+ - lheaven: Starts scrolling. "I don't know what that would be called. Maintence? Home and property?" Goes to H&P first and sees bulky waste pickup and clicks on it. Goes to the page and starts reading. Request Bulky Waste Pickup button. See's the modal window - "this is a lot of stuff to read. And not all county residents are able to read and that's a lot - I can see that being frustrating if it's all of this. And then you have to read and pick out of it?"
+
+Tries to enter and address and the modal says "The services is currently unavailable." But the error is not clear. [Turns out this is also an issue with regular UMSA addresses as well]
+ - Reub: All Services, clicked Home and Property, clicked on Home and Property sub-tab under Filters, and selected Bulky Waste Pickup. 
+ - Infrequent user: Did find "request services" button, first instinct was "Contact 311," but "Bulky Waste Pickup" also seems right. Picked top-level "Services" button, going through big list. Filtered for "waste," found "Bulky Waste Pickup"
+ - Steph: I know it'd be bulky waste pickup from previous experiences. I'd look at top online services. It's not there, so I won't look there anymore. Request services? Maybe that's it. I click on "Bulky Waste Pickup" - it's telling me instructions, and then I request it. Seems straight forward. 
+
+Okay, I like that. Pretty easy to find.
+ - Ibis: Search on Waste Removal, but then found Bulky Waste Pick up under Request Service tab. 
+ - New User: Click "Request Services" tab, attempted to click "Bulky Waste Pickup" icon, then button. Reading instructions on left, looking for what's allowed,  hinted at link to 311 system. 
+ - Superman: View more services > typed "tree debris removal" in the search bar... since he couldn't complete task, went back to previous page.
+Would now look for a contact number, scrolled down to the footer. "I don't see any sort of contact number"
+
+Show me how you would use this site to find that information.
+ - frequent user: Scrolling through blue icons, trying "Social Services." Probably not, going back to homepage. Searching for "firefighter education," went to main site results. "Public Safety" blue icon, clued on to CERT training. Searched "Public Safety" search bar for "firefighter," no useful results. Couldn't find anything for firefighter.
+ - Kathy: county jobs > eligibility and requirements > job search (reading around for the job description) > would want to read it on the job description. Since didn't see it on the county jobs page drop down she stopped looking. when prompted, continued clicking around on the same page. clicked on create an online profile, which took her to a new page to apply. 
+
+she found it confusing to apply because it says you dont need to register but does seem to imply you need to create an online profile. no other options to apply or look for jobs or a phone number
+ - MIAsince2000: Scrolls down to the tabs and select county jobs. Scrolled to job search > figured out you need to create a profile before you can register for any job. But specifically for a firefighter, will go to search bar. "Requirements for becoming a firefighter". First link is pretty great. I like this website a lot, very informative.
+ - Alex1: Used the search feature and found Firefighting FAQ. That then lists out some of the requirements including age and tests needed to pass.
+ - Masters degree and mom of 2: call 311 to ask; otherwise, would browse blue icons, doesnt see what she needs, scrolls back up, then allt he way down, accidentally end up scrolling tweets which is useless, click on "public safety" since is completely lost on what to do, seems like the wrong page... but on page 2 finds "fire rescue jobs"! read through the results
+ - Jonathan: online services and click on county jobs. Then click on eligibilty and requirements. 
+ - michelle: homepage> public safety > reading options like CERT > search firefighter > no results > search firefighter no plural > got result for fire rescue jobs > see eligibility and requirements 
+ - Middle aged graphic designer: 
+ - Occasional user: search for "firefighter application", "Firefighter Hiring FAQ", read FAQ. GUIDED TO FIRE RESCUE JOBS. Requirements easy to find.
+ - Graphic designer middle aged: side menu doesnt say anything about Jobs, see county jobs and tempted to click, but wants to search for something more specific, tweets are useless, click on "county jobs", scroll up and down, doesn't see anything so goes back to the homepage, would call the number under "county jobs" requesting more info (he can't apply since he doenst know what he needs TO apply)
+ - Arlene1: No home button so backed out from last page. Used the topics of interest buttons and went to Public Safety. Did not find firefighting information. Used search bar in the menu tab and sent to the full miami dade site, not beta. Went to services tab and found firefighting services and found the list of requirements.
+ - CanadianMom: I would click "County Jobs". First I'm shown what's required to apply? I need to register? User is side-tracked by having to create an online profile when they'd like to just view the firefighter requirements. Doesn't even know if there's a job opening for this position. Why do I have to create an account just to see available jobs? Just came across " you do not need to register to search for jobs", yet it is not providing another option. User is confused at this point. 
+ - tito: homepage > online services > homepage > topic of interest > looking for a search because don't see a category he wants to click on > your government > homepage. done 
+ - Luckye: Click safe county jobs - eligibility and requirements. It needs to give me a list for jobs to search for. Clicked log into your account (non- button. Label should be fixed. Why should I log in? It's not clear I can search without having to log in. Now it is showing open jobs but nothing on requirements
+ - Active user of MDC website: Looking for "County Jobs" even thought that might only give the jobs that are open. Expanded "Job Search" subheading, but it didn't link anywhere. "Why isn't it under 'Jobs?'" Trying "Public Safety" in the blue icons. Didn't find anything in the first page in public safety, including the pagination icons. GUIDED TO PAGINATION ICONS, found fire rescue jobs, eligibility and requirements.
+ - Fab: Clicks county jobs> sees that you have to register and run through a job search.
+
+They don't want to list every job but it would be nice to have a direct link. Had to read fine print to see you don't have to register. Still not sure of where the requirements are. Back to thinking she needs to create an online profile
+ - lheaven: Let me try agencies." She clicks on Agencies and scrolls down. Spends a good minute going through all of them. "Okay, fire department is not in there. That's weird, they have everything except for FD but they haven't put in police or fire agencies?" 
+
+Now clicks on Services. Goes to "all services" link. "Oh jeez. But they have a filter button" and goes to Public Safety sub link. "I'm going to go in search"
+
+Search types in "fire department" and sees "Fire rescue" link. There we are! (Now in /fire) and clicks on "Jobs & Employment.
+ - Reub: Looked at Categories under All Services and clicked on Public Safety, and found Fire Rescue Jobs, which took him to "Apply for a Fire Rescue Jobs". Unfortunately, they are not currently accepting applications. 
+ - Infrequent user: Wanted to search, but it goes to the old site. Found "Public Safety" topic, searched for "Firefighter," found "Fire Rescue Jobs"
+ - Steph: 
+ - Ibis: Tried County Jobs and Job Search, without success. Then searched on Firefighter, and then selected Jobs and Employment which when to the miamidade.gov web site rather than staging. 
+ - New User: Puzzled by Online Services, scrolled past Topics of Interest, wanted to search. GUIDED TO WHOLE SERVICE LIST AND WORKING SEARCH. Wanted to search for "how to pass fire text," encouraged to search for "fire", found "Fire Rescue Jobs"
+ - Superman: 
+
+Show me how you would use this site to notify the appropriate authorities.
+ - frequent user: "Building and Construction" blue icon. "Business Code Enforcement?" Seems too commerical, trying second page. "Neighborhood and Building Enforcement" looked promising, but trying third page. "Waste Disposal?" Nothing immediately seems useful, trying "waste disposal." Residential tab, three options for collection, tires, trash centers don't really have enough detail for responsibilities of apartment buildings. Trying homepage again, trying "Home and Property" blue icon next. Five pages?! Found "Recycling Services" on third page. "Multifamily Recycling" in grey box, should have a bullet or icon for itself, since it's deep in a "homeowner" flavored section of the site.
+ - Kathy: homepage > request services > recycling services > read blue box of information and only reading the multifamily section because we talked to Miami-dade employee during the test, but she'd call and ask. 
+ - MIAsince2000: Since it's required by law... I would go to request a service > recycling services. Is getting stuck here. Doesn't include what we're looking for. Search "how to report a building that doesn't have recycling" go second link. Multi family link and report a problem. Not working. Goes back to main page. To make it easier > go back to recycling services page > add a link to report a building that doesn't offer recycling
+ - Alex1: Searching through the departments and found Solid Waste and want to contact the department to report the problem. Their recycling page did not have anything on reporting on the issues.
+ - Masters degree and mom of 2: browse blue icons, click on "home and property", search  in bar "recycling", 3 results pop up, go back and search "recycling pickup" but nothing came up, go back to homepage, click on "environment and resilience", looks like shes on the right track! click on "green print" but the results come up in tiny font, doesnt seem useful for her purposes, click on "govt policies" and again tiny print font, give up and call 311
+ - Jonathan: request services and contact 311, report a neighborhod code violation. 
+ - michelle: homepage > environment "I believe I saw something here when I was looking for tree trimming" > recycling services "some pages load quickly some pages don't" > view recycling services  read options "this is just saying how to look up your recycling day not to complain about your apartment" > homepage > government policies > homepage "hmmmm can we search from the homepage?" > search for report recycling - didn't do anything >  didn't work. 
+ - Middle aged graphic designer: 
+ - Occasional user: Searching "recycling apartment complex", found that old site has it, let's try new site. "Home & Property" seems more promising than "Environment & Resilience"  almost missed page controls, "Recycling Services" "finally" at bottom of third page. "Multifamily Recycling" in grey box. Never an obvious way to notify authorities.
+ - Graphic designer middle aged: go to "request services" and click on "recycling services" and hope for a form, end up calling the 305 number to report the situation
+ - Arlene1: Use top online services but it appears it is not. Searched services - recycling, and selected Recycling Services. Selected regulation and compliance (opened up MuniCode ordinances). I don't see any button to notify someone of the issue.
+ - CanadianMom: I would contact 311. It seems like a general question that they could help direct me with. Clicks "See More Services" > "All Services". Opens right menu. Clicks on "Recycling Services". Taking a while to load. Once there, clicks on "Multifamily Recycling". Is there reading all of the specifications. "At this point I would expect under the online options to declare my apartment building. Especially now that I see that it's required by law." Tempted to click look up recycling alerts. 
+ - tito: homepage > online services > looking for reporting > contact 311 > would call 311. 
+ - Luckye: 
+ - Active user of MDC website: Trying "Government & Legislation," nothing particularly promising. None of the blue icons seem trash-related. Maybe environment, but that was a little too aesthetic. Home & property looks useful, "Neighborhood Compliance" seems useful, but "Recycling Services" seems better. "Multifamily Recycling" in grey books looks promising, probably call waste service number listed on this page.
+ - Fab: Request services> Contact 311> scroll down to where it suggests report a code violation> would then call by phone
+ - lheaven: 'Home & Property' seems to be a popular one today." She searches for "recycling" in the search and finds "Recycling Services." [page takes an usually long time]
+
+Tries an erroneous page, clicks on back and goes to a different page than searching. Somehow ends up on the original miamidade.gov site, the recycling and then clicks on "report a problem."
+
+Goes to 311direct and encounters options only for Bulky Waste Pickup. "Okay, that's not helpful at all.
+ - Reub: Clicked on Recycling Services under Report Problems, selected Multifamily Recycling. However, the link to the Multifamily Recycling Law only showed the relevant laws but did not provide the means of actually reporting problem. 
+ - Infrequent user: First guess was to contact 311. Best category guess was "Environment", but found "Recycling Services" in the "Request Services" area. Picked "Multifamily Recycling,"  nothing to notify authorities online.
+ - Steph: I would go on a website - it could be faster than talking to someone. Flicks down and looks at request services, there's recycling services (page takes time for load)
+
+"Grasscycling. Love that!" Okay, residential recycling, let me click on that. Hmm, older homes.
+
+"I'm going to go back, I don't see what I'm looking for here."
+
+Goes to multi-family - I never think of multifamily versus residential. I feel like that term is better for planning and zoning. Apartment buildings and condos. Okay, is mandatory, that's good. Clicks on "regulations and complaints" - so I don't see anywhere to report my issue on this web page. I wish there was. From there I would just call waste services for my next move.  
+ - Ibis: Request Services -> Recycling Services -> Call Waste Services
+ - New User: Looked for word "recycling" but didn't find it. Going through "view more services" and filtering for "recycling". Found "Recycling Services," would call "311" for Customer Service.
+ - Superman: Would reach out to building owner OR Home & Property... back on the all search page. Questions building enforcement.> recycling services> residential recycling > call to place order for cart
+
+Thanks, that was very helpful. If you’ll excuse me for a minute, I’m just going to see if anyone from Miami-Dade County or CUTGroup Miami has any follow-up questions they’d like me to ask you.
+ - frequent user: 
+ - Kathy: 
+ - MIAsince2000: Na
+ - Alex1: How did you like the new site?   Felt the county site currently is very frustrating. When selecting county departments it sends the tester to the current Miami Dade County site instead of the Beta.
+Department and agencies doesn't state what the services that agency provides.
+How do you feel about the services page?
+With the make a payment tab and listing that you can make a payment under the permits section as well, it looks slightly confusing. Could be cleaned up a little better.
+ - Masters degree and mom of 2: confused on what the wording on some of the blue icons means, categories she would suggest: "parks" since she has kids; biggest complaint: search feature should have better results
+ - Jonathan: The tester feels the site was pretty easy to use but he feels that you do need  little familiarity. 
+ - michelle: 
+ - Middle aged graphic designer: 
+ - Occasional user: 
+ - Graphic designer middle aged: it's welcoming, not a typical clunky govt website, quick-submit forms would be nice rather than calling, or a callback service
+ - Arlene1: What can be done to improve the website?  - Felt that it is in a good place, noticed that few of the sections did not have the most important services at the top (unlike homepage) or that there were multiple pages on the all services. Lots of scrolling.
+ - CanadianMom: 
+ - tito: 
+ - Luckye: It's similar to previous site with more news and events though. 
+ - Active user of MDC website: 
+ - Fab: 
+ - lheaven: 
+ - Reub: Jaime and Adam had to leave. 
+ - Infrequent user: 
+ - Steph: 
+ - Ibis: Jaime and Adam had to leave.
+ - New User: 
+ - Superman: 
+
+Proctors only: List the three most serious usability problems you observed.
+ - frequent user: Blue icon clickability, multiple pages of options difficult to discover, search isn't great.
+ - Kathy: language options, job section seeing positions, jargin explanation so naming checks that people know what everything is. 
+ - MIAsince2000: Permitting page was missing a link to an option for payments. Led on a long search. For jobs portal, maybe a list of existing job types to be led to the correct info page. Add a button on recycling page to report issues.
+ - Alex1: The search feature and departments selection site sends the user off of the beta site and onto the current website. Topics of interest tabs doesn't say exactly what services those areas actually provide. Need more contact and customer service sections, to help citizens.
+ - Masters degree and mom of 2: search results didn't really come up, dislikes the twitter feed which clutters the screen, descriptions of page descriptions could be better defined
+ - Jonathan: nothing serious only he pictures shuould also be links. 
+ - michelle: 1- Turned to search a lot to find content. Most of the information is in the site, but participant searched for site once in main categories on main category when using mobile device. 
+2- maybe information was there but the naming didn't match what the user was looking for
+3- "homepage showcasing a lot of tweets. it's a lot and hard to navigate around when on mobile"-user
+ - Middle aged graphic designer: 
+ - Occasional user: (beta site only) search goes to current site, not new site (might not be fixable); pagination still hard to discover, categories can feel vague
+ - Graphic designer middle aged: he keeps looking for submission forms but there aren't any, needs a FAQ or quick search section, gets stuck scrolling tweets when he wants to scroll the site itself, make social media icons larger
+ - Arlene1: The user had to scroll a lot to find the links she was looking for. That there were more pages in searches that was difficult to see that there was a second page. Otherwise was able to successfully use the search features pretty well to find what was needed for each scenario.
+ - CanadianMom: For the building the permit - we found the right page, but nowhere to follow through on the task. There's missing information throughout the site as far as next steps in applying for a job - where can we find information on the job before even registering. The tester didn't even use the search feature on the site. Would normally just call 3-1-1. 
+ - tito: the blue icons are misleading since they're not clickable. important content is buried and more search would be helpful. maybe better keywords so the search doesn't come up empty. a lot of scrolling on a phone to view all of the content. "too much to get all of this information" "make it come compact"
+ - Luckye: Was barely able to complete the tasks, had to refer to google for most and even then couldn't complete them.
+ - Active user of MDC website: Pagination links, 311 direct doesn't have complete options, some wording and grammar checking
+ - Fab: Hasn't used many of these services before so not sure how a lot of this would apply to her here except for animal related services
+ - lheaven: 1. Consider live chat, maybe with a 311 agent
+2. Use an app like Hemingway to make modal dialogue clearer for 311 service requests
+3. At least offer an "OK" on modal windows as a way for users to be able to close the window.
+
+ - Reub: Finding some services took too many clicks, the search bar could be better, though the Filter Services seemed to work well. 
+ - Infrequent user: Guessing which category a given service is in, pagination controls, beta search
+ - Steph: 1. Consider putting Library services under topic of interests. And make search work for mobile on front page. 
+2. Consider moving "multi-family" and "residential" under one thing, and use real world non-zoning talk like "apartments" and "condos" for recycling.
+3. There was no real call to action under certain content sites.
+ - Ibis: Ibis ended up using the phone numbers in lieu of finding the on-line service, the county jobs was just general information rather than actual jobs, and nothing else. 
+ - New User: Search and filtering, navigation concealed, wording sometimes unexpected.
+ - Superman: The all services page was a bit cumbersome
+
+What is your age?
+ - frequent user: 35 - 44
+ - Kathy: 25 - 34
+ - MIAsince2000: 25 - 34
+ - Alex1: 25 - 34
+ - Masters degree and mom of 2: 45 - 54
+ - Jonathan: 25 - 34
+ - michelle: 18 - 24
+ - Middle aged graphic designer: 
+ - Occasional user: 35 - 44
+ - Graphic designer middle aged: 35 - 44
+ - Arlene1: 25 - 34
+ - CanadianMom: 45 - 54
+ - tito: 45 - 54
+ - Luckye: 45 - 54
+ - Active user of MDC website: 55 - 64
+ - Fab: 18 - 24
+ - lheaven: 35 - 44
+ - Reub: 25 - 34
+ - Infrequent user: 25 - 34
+ - Steph: 25 - 34
+ - Ibis: 18 - 24
+ - New User: 55 - 64
+ - Superman: 25 - 34
+
+How would you describe your race/ethnicity?
+ - frequent user: Black or African American
+ - Kathy: Hispanic/Latino
+ - MIAsince2000: Hispanic/Latino
+ - Alex1: Hispanic/Latino
+ - Masters degree and mom of 2: White/Caucasian
+ - Jonathan: Hispanic/Latino
+ - michelle: Black or African American
+ - Middle aged graphic designer: 
+ - Occasional user: Hispanic/Latino
+ - Graphic designer middle aged: Hispanic/Latino
+ - Arlene1: Hispanic/Latino
+ - CanadianMom: White/Caucasian
+ - tito: Hispanic/Latino
+ - Luckye: 
+ - Active user of MDC website: White/Caucasian
+ - Fab: Black or African American
+ - lheaven: Black or African American
+ - Reub: Asian/Pacific Islander
+ - Infrequent user: Hispanic/Latino
+ - Steph: 
+ - Ibis: Black or African American
+ - New User: Hispanic/Latino
+ - Superman: Hispanic/Latino
+
+What is your gender?
+ - frequent user: Female
+ - Kathy: female
+ - MIAsince2000: Male
+ - Alex1: Female
+ - Masters degree and mom of 2: Female
+ - Jonathan: Male
+ - michelle: female
+ - Middle aged graphic designer: 
+ - Occasional user: Female
+ - Graphic designer middle aged: Male
+ - Arlene1: Female
+ - CanadianMom: female
+ - tito: male
+ - Luckye: Female
+ - Active user of MDC website: female
+ - Fab: Female
+ - lheaven: Female
+ - Reub: Male
+ - Infrequent user: Female
+ - Steph: Female
+ - Ibis: Female
+ - New User: Female
+ - Superman: M
+
+What do you think of the CUTGroup?
+ - frequent user: Enjoy it.
+ - Kathy: fun
+ - MIAsince2000: wonderful group and would be willing con to continue coming.
+ - Alex1: Very useful to improve the site and/or apps
+
+ - Masters degree and mom of 2: it's fun
+ - Jonathan: He liked it. 
+ - michelle: fun
+ - Middle aged graphic designer: 
+ - Occasional user: Very informal and friendly, library is a relaxed location
+ - Graphic designer middle aged: i love it!
+ - Arlene1: I think it is a good way to get county residents involved in things that affect them. 
+ - CanadianMom: Great, easy, friendly environment (important for an honest feedback), fun! Also gives a good feeling of working for the community
+ - tito: very good, everyone is friendly and professional
+ - Luckye: Great service to help people navigate the county's website for the services offered.
+ - Active user of MDC website: Very appropriate, could lead to good improvements for the website, helpful for the users and community.
+ - Fab: I think the CUTGroup is great for miami residents and non residents because they test online forums and websites for people so they can see if the websites work accurately.
+ - lheaven: I thought it was interesting. I'm glad I got to click through the new website coming soon. I like that it's clean and fresh and that's a very generous term for the county."
+ - Reub: CUTGroup is great! 
+ - Infrequent user: Testing group is very beneficial
+ - Steph: I have a very positive opinion about the CUTGroup because of the work they're doing! I think it's so important that the public gets to participate in government and millions of folks use these pages. I think it's important that residents use that.
+ - Ibis: I like the CUTGroup and enjoy the opportunity to provide feedback for web sites. 
+ - New User: Really good
+ - Superman: The experience was very pleasant and easy to communicate with. The website itself I believe can have some improvements such as tab condensing and a better search function. Overall a good website with more small updates to be had.
+
+Is this your first CUTGroup test?
+ - frequent user: 1
+ - Kathy: 1
+ - MIAsince2000: 1
+ - Alex1: 0
+ - Masters degree and mom of 2: 1
+ - Jonathan: 0
+ - michelle: 1
+ - Middle aged graphic designer: 
+ - Occasional user: 1
+ - Graphic designer middle aged: 0
+ - Arlene1: 1
+ - CanadianMom: 1
+ - tito: 0
+ - Luckye: 1
+ - Active user of MDC website: 0
+ - Fab: 1
+ - lheaven: 1
+ - Reub: 0
+ - Infrequent user: 1
+ - Steph: 0
+ - Ibis: 0
+ - New User: 0
+ - Superman: 1
+
+How do you feel about this CUTGroup test?
+ - frequent user: Very interesting, learned a new website, explains what can be changed, what minor changes need to be done to the website.
+ - Kathy: fun
+ - MIAsince2000: It was very informational
+ - Alex1: Enjoyed it
+ - Masters degree and mom of 2: very informative
+ - Jonathan: The test was effective. 
+ - michelle: nice, got to explore miami-dade's website. never done that before
+ - Middle aged graphic designer: 
+ - Occasional user: Like the round table, doesn't feel like an exam
+ - Graphic designer middle aged: good
+ - Arlene1: Positive experience. Enjoyed being part of making the website come to life
+ - CanadianMom: Friendly environment, open to feedback,
+ - tito: very good. happy to provide feedback to the website. very important to do that
+ - Luckye: Interesting.  
+ - Active user of MDC website: Very good, was able to note areas for improvement, eliminate frustration for average users.
+ - Fab: I actually enjoyed it and know there are people who test websites for their legitmately.
+ - lheaven: Very friendly! No complaints here!
+ - Reub: It was very good. Also the proctor was personable and helpful. 
+ - Infrequent user: Useful and important to stay involved, help democracy
+ - Steph: 
+ - Ibis: This web site was better than Open Referral / Miami 211 web site. 
+ - New User: Site much improved from previous test.
+ - Superman: Was fun
+
+Anything else to add?
+ - frequent user: 
+ - Kathy: nope, lauren was nice
+ - MIAsince2000: Great service
+ - Alex1: No.
+ - Masters degree and mom of 2: good luck, you're doing good work
+ - Jonathan: No
+ - michelle: 
+ - Middle aged graphic designer: 
+ - Occasional user: Useful to have someone else typing answers, having a conversation, good to learn about the city
+ - Graphic designer middle aged: important to get user feedback!
+ - Arlene1: Nope. Thank you for offering this service
+ - CanadianMom: Potentially want to Proctor, would definitely test again. Weekends are best. 
+ - tito: 
+ - Luckye: Nope
+ - Active user of MDC website: My proctor was helpful in answering my questions when I got frustrated and was unable to locate some information. I asked for some direction and received it, and then was able to locate the information. I find this very useful because I deal with the public on a daily basis, and I know how frustrated users get, and they prefer in this age of electronics, it's necessary that customers can find information quickly and efficiently without getting frustrated.
+ - Fab: No
+ - lheaven: 
+ - Reub: Nothing else! Thanks
+ - Infrequent user: 
+ - Steph: 
+ - Ibis: Nothing else to add. 
+ - New User: 
+ - Superman: 
+
+Start Date (UTC)
+ - frequent user: 2017-03-25 14:48:02
+ - Kathy: 2017-03-25 14:57:55
+ - MIAsince2000: 2017-03-25 15:03:13
+ - Alex1: 2017-03-25 14:07:21
+ - Masters degree and mom of 2: 2017-03-25 14:37:56
+ - Jonathan: 2017-03-25 15:30:02
+ - michelle: 2017-03-25 15:38:46
+ - Middle aged graphic designer: 2017-03-25 15:57:52
+ - Occasional user: 2017-03-25 15:33:59
+ - Graphic designer middle aged: 2017-03-25 16:18:15
+ - Arlene1: 2017-03-25 15:44:36
+ - CanadianMom: 2017-03-25 14:32:49
+ - tito: 2017-03-25 16:10:00
+ - Luckye: 2017-03-25 15:43:50
+ - Active user of MDC website: 2017-03-25 16:20:46
+ - Fab: 2017-03-25 17:18:39
+ - lheaven: 2017-03-25 17:03:47
+ - Reub: 2017-03-25 17:03:12
+ - Infrequent user: 2017-03-25 17:23:55
+ - Steph: 2017-03-25 17:57:30
+ - Ibis: 2017-03-25 18:15:03
+ - New User: 2017-03-25 18:13:22
+ - Superman: 2017-03-25 18:28:52
+
+Submit Date (UTC)
+ - frequent user: 2017-03-25 15:31:58
+ - Kathy: 2017-03-25 15:38:24
+ - MIAsince2000: 2017-03-25 15:43:49
+ - Alex1: 2017-03-25 15:43:50
+ - Masters degree and mom of 2: 2017-03-25 15:57:00
+ - Jonathan: 2017-03-25 16:02:44
+ - michelle: 2017-03-25 16:09:32
+ - Middle aged graphic designer: 2017-03-25 16:18:12
+ - Occasional user: 2017-03-25 16:20:38
+ - Graphic designer middle aged: 2017-03-25 16:36:55
+ - Arlene1: 2017-03-25 16:40:47
+ - CanadianMom: 2017-03-25 16:50:25
+ - tito: 2017-03-25 17:05:14
+ - Luckye: 2017-03-25 17:18:24
+ - Active user of MDC website: 2017-03-25 17:23:34
+ - Fab: 2017-03-25 18:28:15
+ - lheaven: 2017-03-25 17:54:05
+ - Reub: 2017-03-25 18:03:24
+ - Infrequent user: 2017-03-25 18:12:09
+ - Steph: 2017-03-25 18:29:53
+ - Ibis: 2017-03-25 18:46:00
+ - New User: 2017-03-25 18:48:14
+ - Superman: 2017-03-25 18:52:02
